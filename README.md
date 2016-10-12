@@ -1,1 +1,0 @@
-"# Wakfu-Translate" 
