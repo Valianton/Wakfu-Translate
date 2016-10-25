@@ -1,6 +1,8 @@
 # Wakfu-Translate
 Проект пользовательского перевода игры [WAKFU](http://www.wakfu.com/en/mmorpg)
 
+VK страница-группа проекта [Wakfu Русификатор](https://vk.com/club131505868)
+
 ## Оглавление
 1.  [Обход STEAM](#nosteam)
 
