@@ -1,9 +1,9 @@
-rem rmdir /S/Q tmpTranslate
+rmdir /S/Q tmpTranslate
 powershell -Command "New-Item -ItemType directory -Path  $pwd\tmpTranslate\theme\fonts"
 powershell -Command "New-Item -ItemType directory -Path  $pwd\tmpTranslate\i18n"
 powershell -Command "New-Item -ItemType directory -Path  $pwd\tmpTranslate\chatonly\theme\fonts"
-rem powershell -Command "Invoke-WebRequest https://github.com/Valianton/Wakfu-Translate/archive/master.zip -OutFile $pwd\tmpTranslate\master.zip"
-rem powershell -Command "Expand-Archive -Path $pwd\tmpTranslate\master.zip -DestinationPath $pwd\tmpTranslate"
+powershell -Command "Invoke-WebRequest https://github.com/Valianton/Wakfu-Translate/archive/master.zip -OutFile $pwd\tmpTranslate\master.zip"
+powershell -Command "Expand-Archive -Path $pwd\tmpTranslate\master.zip -DestinationPath $pwd\tmpTranslate"
 rem rus ChatOnly update
 cd tmpTranslate
 copy Wakfu-Translate-master\Translated\Fonts\wci-bold-9.fnt chatonly\theme\fonts
