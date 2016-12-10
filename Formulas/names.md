@@ -1,0 +1,12 @@
+Shedder = Шед
+Nanny = Нэнни
+Master Bossowl = Мастер Босовл
+Wikan Dewitt = Викан Девитт
+Hullcatz = Халкаты
+Melmac = Мелмак
+E.Z. Yeast = Е.З. Ист
+N.D. Hammersmith = Н.Д. Хаммерсмит
+Missy Amulet = Мисси Амулет
+Jenry Hones = Генри Хонс
+Jang Offett = Янг Оффетт
+Croesus Scruge = Крезус Скрудж
