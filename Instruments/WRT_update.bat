@@ -13,3 +13,4 @@ copy Wakfu-Translate-master\Translated\Fonts theme\fonts
 rem rus Text update
 copy Wakfu-Translate-master\Translated\Texts i18n
 cd ..
+pause
