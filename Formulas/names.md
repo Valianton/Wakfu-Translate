@@ -10,3 +10,7 @@ Missy Amulet = Мисси Амулет
 Jenry Hones = Генри Хонс
 Jang Offett = Янг Оффетт
 Croesus Scruge = Крезус Скрудж
+Gnat - Meridia of Shells = Гнат - Меридия Оболочек
+Laetitia Jocasta Nuk = Летиция Юкаста Нук
+Janine Soleau = Жанин Солю
+Belva Deer = Олень Белва
