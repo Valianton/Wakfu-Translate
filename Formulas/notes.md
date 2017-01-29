@@ -9,3 +9,7 @@
 
 Мысли персонажа
 **Some text
+
+
+
+quest.wabbit
