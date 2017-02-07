@@ -80,3 +80,4 @@ Grobid-Kwaan Kelnoobi = Гробид-Кваан Келнуби
 Khan Karkass = Кхан Каркас
 Mimi the Marvelous = Мими Чудесная
 Michelene Tordsabots = Мишелин Тодзаботс
+Bilby Queen = Королева Билби
