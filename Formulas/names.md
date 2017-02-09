@@ -81,3 +81,4 @@ Khan Karkass = Кхан Каркас
 Mimi the Marvelous = Мими Чудесная
 Michelene Tordsabots = Мишелин Тодзаботс
 Bilby Queen = Королева Билби
+Katrina Slevastan = Катрина Слевастан
