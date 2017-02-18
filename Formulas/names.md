@@ -85,3 +85,4 @@ Katrina Slevastan = Катрина Слевастан
 Puddly = Клякса
 Taur = Тавр
 Heals received = Получаемое Исцеление
+Heals perfomed = Навык лечения у цели увеличен
