@@ -20,4 +20,5 @@ damage received by the ally = Урон, получаемый от союзник
 [caster] - Заклинатель
 [exalte] - элиотроп calm
 [serein] - элиотроп exalted
-[taque] - Стрелка Кселора
+[tique] - Тик Стрелка Кселора
+[taque] - Так Стрелка Кселора
