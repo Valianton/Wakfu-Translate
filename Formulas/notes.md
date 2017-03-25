@@ -10,10 +10,13 @@
 Мысли персонажа
 **Some text
 
-[glyph]
 damage inflicted to ally = Урон, нанесенный союзникам
 damage received by the ally = Урон, получаемый от союзников
+Heals received = Получаемое Исцеление
+Heals perfomed = Навык лечения у цели увеличен
 
+
+[glyph] - символ
 [pl] - Стрелка
 [fighter] - Цель
 [enemy] - Враг
@@ -22,3 +25,7 @@ damage received by the ally = Урон, получаемый от союзник
 [serein] - элиотроп exalted
 [tique] - Тик Стрелка Кселора
 [taque] - Так Стрелка Кселора
+Hours Cell - Клетка Часов
+
+nationch04
+quest.nations.ch04
