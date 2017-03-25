@@ -1,11 +1,19 @@
-﻿Tahoma
-marialn-plain-14 - описание предметов (желтый цвет в окне)
+﻿Tahoma - [Шрифт описания предметов (желтый цвет в окне)]
+marialn-plain-14
 
-Verdana
-wci-bold-9 - текст в input полях
-wci-plain-10 - можно увидеть на загрузочном экране и в описании серверов
+Acrobat Bold - [Шрифт сообщений в чате]
+marialn-boldbordered-14
+marialn-boldbordered-16
+marialn-boldbordered-18
+
+Verdana - [Шрифт текста в полях ввода]
+wci-bold-9
+
+Verdana - [Шрифт текста при загрузке игры и описание серверов]
+wci-plain-10
+
+Verdana - [Шрифт текста NPC, чат в baloones]
 wci-bold-14 - Текст NPC
-
 
 Cuprum
 coprgtl-plain-34 - Можно увидеть сверху при выборе сервера или персонажа

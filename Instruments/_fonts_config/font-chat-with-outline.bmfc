@@ -1,0 +1,56 @@
+# AngelCode Bitmap Font Generator configuration file
+fileVersion=1
+
+# font settings
+fontName=Akrobat Bold
+fontFile=
+charSet=204
+fontSize=18
+aa=1
+scaleH=100
+useSmoothing=1
+isBold=1
+isItalic=0
+useUnicode=1
+disableBoxChars=1
+outputInvalidCharGlyph=0
+dontIncludeKerningPairs=0
+useHinting=0
+renderFromOutline=1
+useClearType=0
+
+# character alignment
+paddingDown=2
+paddingUp=2
+paddingRight=2
+paddingLeft=2
+spacingHoriz=1
+spacingVert=1
+useFixedHeight=0
+forceZero=0
+
+# output file
+outWidth=256
+outHeight=256
+outBitDepth=32
+fontDescFormat=2
+fourChnlPacked=0
+textureFormat=dds
+textureCompression=3
+alphaChnl=1
+redChnl=0
+greenChnl=0
+blueChnl=0
+invA=0
+invR=0
+invG=0
+invB=0
+
+# outline
+outlineThickness=1
+
+# selected chars
+chars=32-95,97-126,167,169,171,174,187,232-233,235,1025,1040-1103,1105,8211-8212,8216-8218,8220-8222,8226
+chars=8230,8240,8249-8250
+
+# imported icon images
