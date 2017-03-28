@@ -106,3 +106,6 @@ Charles-Henri of Vileardent = Чарльз-Анри из Вилеардента
 Savhanna the Silky = Савхана Шелковистая
 Skrapur Kutmairo = Скрапу Катмаиро
 Tonguetwist LaMouth = Тонтвист Ламон
+Nautilor = Наутилор
+Smash'kull = Череполом
+Fleebagh = Флибаг

@@ -26,6 +26,3 @@ Heals perfomed = Навык лечения у цели увеличен
 [tique] - Тик Стрелка Кселора
 [taque] - Так Стрелка Кселора
 Hours Cell - Клетка Часов
-
-nationch04
-quest.nations.ch04
