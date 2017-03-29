@@ -15,6 +15,10 @@ wci-plain-10
 Verdana - [Шрифт текста NPC, чат в baloones]
 wci-bold-14 - Текст NPC
 
+Verdana - [Счетчик количества предметов в окне инвентаря]
+wci-bordered-10
+wci-bordered-11
+
 Cuprum
 coprgtl-plain-34 - Можно увидеть сверху при выборе сервера или персонажа
 coprgtl-boldbordered-20 - Название местности и описание нации под ней
