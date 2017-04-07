@@ -109,3 +109,6 @@ Tonguetwist LaMouth = Тонтвист Ламон
 Nautilor = Наутилор
 Smash'kull = Череполом
 Fleebagh = Флибаг
+Selachii = Селакия
+Mollusky = Моллюскай
+Bring Comedead = Бринг Камдэд
