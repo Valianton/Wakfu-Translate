@@ -112,3 +112,4 @@ Fleebagh = Флибаг
 Selachii = Селакия
 Mollusky = Моллюскай
 Bring Comedead = Бринг Камдэд
+Etnop = Этноп
