@@ -33,7 +33,12 @@ stackable = суммируется
 [taque] - Так Стрелка Кселора
 [el1] - Огонь
 [el3] - Земля
+[el5] - Стазис
 [chromatic] - Все стихии
 [bomb] - Бомба Роуга
 [deposit] - Рудник Энутрофа
 Hours Cell - Клетка Часов
+
+Фоггернаута:
+[ar978] - Microbots 
+[ar385] - Microbot Rail
