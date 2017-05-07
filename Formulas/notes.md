@@ -38,6 +38,8 @@ stackable = суммируется
 [bomb] - Бомба Роуга
 [deposit] - Рудник Энутрофа
 Hours Cell - Клетка Часов
+[puppet] - Кукла Садиды
+[$2ef] - Harmless Toxin - Садида
 
 Фоггернаута:
 [ar978] - Microbots 
