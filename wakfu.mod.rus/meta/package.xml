@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Package>
+    <DisplayName>Russian Localization</DisplayName>
+    <Description xml:lang="en">Russian Localization. Translated: https://github.com/Valianton/Wakfu-Translate</Description>
+    <Description xml:lang="ru">Руссификация Wakfu. Перевод: https://github.com/Valianton/Wakfu-Translate</Description>
+    <Version>1.2.0</Version>
+    <ReleaseDate>2017-05-07</ReleaseDate>
+    <SortingPriority>100</SortingPriority>
+    <Default>true</Default>
+    <Script>mod.js</Script>
+</Package>
