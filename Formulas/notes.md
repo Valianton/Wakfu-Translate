@@ -39,7 +39,8 @@ stackable = суммируется
 [deposit] - Рудник Энутрофа
 Hours Cell - Клетка Часов
 [puppet] - Кукла Садиды
-[$2ef] - Harmless Toxin - Садида
+[$2ef] - Садида - Harmless Toxin
+[st3595] - Садида - Ultra-Powerful Doll
 
 Фоггернаута:
 [ar978] - Microbots 
