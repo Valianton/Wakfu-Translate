@@ -1,6 +1,6 @@
 Shedder = Шед
 Nanny = Нэнни
-Master Bossowl = Мастер Босовл
+Master Bossowl = Мастер Главфилин
 Wikan Dewitt = Викан Девитт
 Hullcatz = Халкоты
 Melmac = Мелмак
@@ -113,3 +113,7 @@ Selachii = Селакия
 Mollusky = Моллюскай
 Bring Comedead = Бринг Камдэд
 Etnop = Этноп
+Sneaky Grambo = Трусливый Грамбо
+Bettie Phenix = Бетти Феникс
+Ecris Vant = Экрис Вант
+Hermie Hondanger = Гермия Хонданжер
