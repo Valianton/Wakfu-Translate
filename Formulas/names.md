@@ -117,3 +117,5 @@ Sneaky Grambo = Трусливый Грамбо
 Bettie Phenix = Бетти Феникс
 Ecris Vant = Экрис Вант
 Hermie Hondanger = Гермия Хонданжер
+Nina Richa = Нина Рича
+Rigide Barjo = Риджит Барджо
