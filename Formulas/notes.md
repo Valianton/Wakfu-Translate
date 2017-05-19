@@ -38,10 +38,14 @@ stackable = суммируется
 [bomb] - Бомба Роуга
 [deposit] - Рудник Энутрофа
 Hours Cell - Клетка Часов
-[puppet] - Кукла Садиды
-[$2ef] - Садида - Harmless Toxin
-[st3595] - Садида - Ultra-Powerful Doll
 
-Фоггернаута:
+Садида:
+[puppet] - Иконка Куклы
+[$2ef] - Harmless Toxin
+[st3595] - Ultra-Powerful Doll
+
+Фоггернаут:
 [ar978] - Microbots 
 [ar385] - Microbot Rail
+
+quest.zinit.ch2.cine.caisse.01
