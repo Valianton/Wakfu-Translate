@@ -113,3 +113,5 @@ Selachii = Селакия
 Mollusky = Моллюскай
 Bring Comedead = Бринг Камдэд
 Etnop = Этноп
+Nina Richa = Нина Рича
+Rigide Barjo = Риджит Барджо
