@@ -1,4 +1,8 @@
+-= Подземелья =-
+Maine Goon = Майн Гун
+Raised Vault = Убежище Поднятых
 Shedder = Шед
+-= Остальное =-
 Nanny = Нэнни
 Master Bossowl = Мастер Главфилин
 Wikan Dewitt = Викан Девитт
@@ -123,3 +127,5 @@ Three Pistes' Cave = Пещера Трех Путей
 Cannibal Hector = Каннибал Гектор
 Nina Richa = Нина Рича
 Rigide Barjo = Риджит Барджо
+Stumpy Jack = Короткий Джек
+Georgiana Marni = Джорджиана Марни
