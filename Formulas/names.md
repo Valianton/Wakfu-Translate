@@ -117,3 +117,7 @@ Sneaky Grambo = Трусливый Грамбо
 Bettie Phenix = Бетти Феникс
 Ecris Vant = Экрис Вант
 Hermie Hondanger = Гермия Хонданжер
+Viscera = Висцера
+Tailor Thrift = Тейлор Фрифт
+Three Pistes' Cave = Пещера Трех Путей
+Cannibal Hector = Каннибал Гектор
