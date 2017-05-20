@@ -120,5 +120,6 @@ Hermie Hondanger = Гермия Хонданжер
 Viscera = Висцера
 Tailor Thrift = Тейлор Фрифт
 Three Pistes' Cave = Пещера Трех Путей
-Cannibal Hector = Каннибал ГекторNina Richa = Нина Рича
+Cannibal Hector = Каннибал Гектор
+Nina Richa = Нина Рича
 Rigide Barjo = Риджит Барджо
