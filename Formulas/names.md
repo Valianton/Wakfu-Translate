@@ -129,3 +129,4 @@ Nina Richa = Нина Рича
 Rigide Barjo = Риджит Барджо
 Stumpy Jack = Короткий Джек
 Georgiana Marni = Джорджиана Марни
+Jaffacrack = Джаффакрак
