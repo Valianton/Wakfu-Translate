@@ -132,3 +132,5 @@ Georgiana Marni = Джорджиана Марни
 Jaffacrack = Джаффакрак
 Sarkophagus = Саркофагус
 Moe Kneetorks = Мо Нитокс
+Krustiblak = Крустиблак
+Tyra Misu = Тайра Мису
