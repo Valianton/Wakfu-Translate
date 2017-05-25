@@ -135,3 +135,4 @@ Moe Kneetorks = Мо Нитокс
 Krustiblak = Крустиблак
 Tyra Misu = Тайра Мису
 Ely Sianfields = Элай Сианфилдс
+Monty Bello = Монти Белло
