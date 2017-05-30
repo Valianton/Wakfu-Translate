@@ -139,3 +139,4 @@ Monty Bello = Монти Белло
 Crocoburio = Крокобурио
 Baal Stroud = Баал Струд
 Macrobio = Макробио
+Clout = Клот
