@@ -140,3 +140,4 @@ Crocoburio = Крокобурио
 Baal Stroud = Баал Струд
 Macrobio = Макробио
 Clout = Клот
+Yew-Teeny = Ю-Тини
