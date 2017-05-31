@@ -141,3 +141,5 @@ Baal Stroud = Баал Струд
 Macrobio = Макробио
 Clout = Клот
 Yew-Teeny = Ю-Тини
+Farle Ingalsse = Фарль Ингалсс
+Hugo Bello = Хьюго Белло
