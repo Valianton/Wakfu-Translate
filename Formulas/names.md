@@ -146,3 +146,4 @@ Hugo Bello = Хьюго Белло
 Shosanne = Шосанна
 Xav the Baker = Ксав Пекарь
 Jaffin = Джаффин
+Nick E. Larsen = Ник Э. Ларсен
