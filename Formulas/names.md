@@ -142,6 +142,7 @@ Macrobio = Макробио
 Clout = Клот
 Yew-Teeny = Ю-Тини
 Farle Ingalsse = Фарль Ингалсс
+Shika Ingalsse = Шика Ингалсс
 Hugo Bello = Хьюго Белло
 Shosanne = Шосанна
 Xav the Baker = Ксав Пекарь
