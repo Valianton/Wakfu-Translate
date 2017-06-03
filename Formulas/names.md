@@ -149,3 +149,4 @@ Xav the Baker = Ксав Пекарь
 Jaffin = Джаффин
 Nick E. Larsen = Ник Э. Ларсен
 Bakander = Бакандер
+Alibert = Алиберт
