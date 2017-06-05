@@ -152,3 +152,4 @@ Bakander = Бакандер
 Alibert = Алиберт
 Hugo Tydal = Хьюго Тайдал
 Fafahoff = Фафахофф
+Billon Stroud = Биллон Струд
