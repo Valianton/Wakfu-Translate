@@ -151,3 +151,4 @@ Nick E. Larsen = Ник Э. Ларсен
 Bakander = Бакандер
 Alibert = Алиберт
 Hugo Tydal = Хьюго Тайдал
+Fafahoff = Фафахофф
