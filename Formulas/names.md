@@ -153,3 +153,5 @@ Alibert = Алиберт
 Hugo Tydal = Хьюго Тайдал
 Fafahoff = Фафахофф
 Billon Stroud = Биллон Струд
+Violet Cotton-Sock = Виолета Хлопковый Носок
+Synosore = Синосор
