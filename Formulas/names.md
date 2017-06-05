@@ -155,3 +155,4 @@ Fafahoff = Фафахофф
 Billon Stroud = Биллон Струд
 Violet Cotton-Sock = Виолета Хлопковый Носок
 Synosore = Синосор
+Larsenus Wallace = Ларсенуc Уоллес
