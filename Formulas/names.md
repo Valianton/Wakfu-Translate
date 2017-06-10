@@ -157,3 +157,4 @@ Violet Cotton-Sock = Виолета Хлопковый Носок
 Synosore = Синосор
 Larsenus Wallace = Ларсенуc Уоллес
 Kokogro = Кокогро
+Fligh = Флай
