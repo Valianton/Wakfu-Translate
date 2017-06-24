@@ -158,3 +158,6 @@ Synosore = Синосор
 Larsenus Wallace = Ларсенуc Уоллес
 Kokogro = Кокогро
 Fligh = Флай
+Whirlies = Вирчувихри / Вирчухли
+Whirligig = Вирчугиг
+Yoh Low = Ю Лоу
