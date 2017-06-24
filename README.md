@@ -1,7 +1,9 @@
 # Wakfu-Translate
 Проект пользовательского перевода игры [WAKFU](http://www.wakfu.com/en/mmorpg)
 
-VK страница-группа проекта [Wakfu Русификатор](https://vk.com/club131505868)
+VK страница-группа проекта: [Wakfu Русификатор](https://vk.com/club131505868)
+
+Программа-русификатор: [Wakfu Mod Installer](https://dreamswork.github.io/Wakfu-Mod-Installer/)
 
 ## Оглавление
 1.  [Требования](#require)
