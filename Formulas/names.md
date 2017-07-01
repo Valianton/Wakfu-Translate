@@ -161,3 +161,5 @@ Fligh = Флай
 Whirlies = Вирчувихри / Вирчухли
 Whirligig = Вирчугиг
 Yoh Low = Ю Лоу
+Hazieff Taroun = Хазифф Тарун
+Klime the Shoemaker = Клим Сапожник
