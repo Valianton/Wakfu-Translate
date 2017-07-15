@@ -163,3 +163,5 @@ Whirligig = Вирчугиг
 Yoh Low = Ю Лоу
 Hazieff Taroun = Хазифф Тарун
 Klime the Shoemaker = Клим Сапожник
+Yew Teeny = Ю Тини
+Klaus = Клаус
