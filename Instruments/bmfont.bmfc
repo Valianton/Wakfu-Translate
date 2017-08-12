@@ -2,55 +2,55 @@
 fileVersion=1
 
 # font settings
-fontName=Arial
+fontName=Tahoma
 fontFile=
-charSet=0
-fontSize=40
+charSet=204
+fontSize=16
 aa=1
 scaleH=100
 useSmoothing=1
-isBold=1
+isBold=0
 isItalic=0
 useUnicode=1
 disableBoxChars=1
 outputInvalidCharGlyph=0
 dontIncludeKerningPairs=0
 useHinting=0
-renderFromOutline=1
+renderFromOutline=0
 useClearType=0
 
 # character alignment
-paddingDown=2
-paddingUp=2
-paddingRight=2
-paddingLeft=2
-spacingHoriz=1
+paddingDown=1
+paddingUp=1
+paddingRight=1
+paddingLeft=1
+spacingHoriz=2
 spacingVert=1
 useFixedHeight=0
 forceZero=0
 
 # output file
 outWidth=512
-outHeight=512
+outHeight=256
 outBitDepth=32
 fontDescFormat=2
 fourChnlPacked=0
 textureFormat=dds
 textureCompression=3
-alphaChnl=1
-redChnl=0
-greenChnl=0
-blueChnl=0
+alphaChnl=2
+redChnl=2
+greenChnl=2
+blueChnl=2
 invA=0
 invR=0
 invG=0
 invB=0
 
 # outline
-outlineThickness=1
+outlineThickness=0
 
 # selected chars
-chars=32-126,167,169,171,174,176,187,232-233,235,1025,1040-1103,1105,8211-8212,8216-8223,8226,8230,8240
-chars=8249-8250
+chars=32-126,161,166-167,169-171,173-190,232-233,710-711,728-730,732-733,1025,1040-1103,1105,8210-8213
+chars=8215-8226,8230,8240,8249-8250,8254,8260
 
 # imported icon images
