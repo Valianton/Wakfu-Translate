@@ -11,6 +11,8 @@ quest.zinit.ch2.cine.caisse.01
 Больше одного
 {[>1]?s:}
 
+[~2]
+
 Мысли персонажа
 **Some text
 
