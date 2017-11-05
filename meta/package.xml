@@ -3,8 +3,8 @@
     <DisplayName>Russian Localization</DisplayName>
     <Description xml:lang="en">Russian Localization. Translated: https://github.com/Valianton/Wakfu-Translate</Description>
     <Description xml:lang="ru">Руссификация Wakfu. Перевод: https://github.com/Valianton/Wakfu-Translate</Description>
-    <Version>1.6.19</Version>
-    <ReleaseDate>2017-09-30</ReleaseDate>
+    <Version>1.6.20</Version>
+    <ReleaseDate>2017-11-05</ReleaseDate>
     <SortingPriority>100</SortingPriority>
     <Default>true</Default>
     <Script>mod.js</Script>
