@@ -27,7 +27,9 @@ is released = высвобождение
 stackable = суммируется
 smithmagic = кузнемагия
 Indirect Damage = Ненаправленный Урон
+Hours Cell - Клетка Часов
 
+Иконки в описании умений
 [glyph] - Символ на земле
 [pl] - Стрелка
 [fighter] - Цель
@@ -43,8 +45,16 @@ Indirect Damage = Ненаправленный Урон
 [el5] - Стазис
 [chromatic] - Все стихии
 [bomb] - Бомба Роуга
-[deposit] - Рудник Энутрофа
-Hours Cell - Клетка Часов
+[$5ae] - Область
+[ae] - Круглая область
+
+Энутроф:
+[ar203] - Ruby Mine
+[ar204] - Emerald Mine
+[ar205] - Gold Mine
+[deposit] - Рудник
+[st3643] - Broke
+[st3641] - Treasures
 
 Садида:
 [puppet] - Иконка Куклы
