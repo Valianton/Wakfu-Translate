@@ -166,3 +166,5 @@ Klime the Shoemaker = Клим Сапожник
 Sister Kate = Сестра Кейт
 Yew Teeny = Ю Тини
 Klaus = Клаус
+Styffen Chillberg = Стиффен Чиллберг
+David Croquette = Дэвид Крокетт
