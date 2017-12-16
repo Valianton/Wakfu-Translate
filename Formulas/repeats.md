@@ -27,7 +27,6 @@ The area's full of monsters. Eliminate the number of them shown to collect the r
 The area's full of monsters. Eliminate them all to collect the reward.
 Эта область полна монстров. Ликвидируйте их всех, чтобы получить награду.
 
-
 The area's full of resources. Interact with as many of them as possible to collect the best reward.
 Эта область полна ресурсов. Взаимодействуйте с ними столько раз, сколько это возможно, чтобы получить лучшую награду.
 
@@ -51,3 +50,48 @@ Hordes are proliferating in the area. Eliminate them all to collect the reward. 
 
 Defeat the monsters
 Победить монстров
+
+Defeat all the monsters
+Победить всех монстров
+
+Defeat all the invasive monsters
+Победить всех агрессивных монстров
+
+Defeat as many monsters as possible
+Победить столько монстров, сколько это возможно
+
+Interact with as many monsters as possible
+Взаимодействовать с максимально возможным количеством монстров
+
+Interact with all the monsters
+Взаимодействовать со всеми монстрами
+
+Interact with the monsters
+Взаимодействовать с монстрами
+
+Interact with all the resources
+Взаимодействовать со всеми ресурсами
+
+Interact with as many resources as possible
+Взаимодействовать с максимально возможным количеством ресурсов
+
+Interact with the resources
+Взаимодействовать с ресурсами
+
+Defeat all the hordes
+Победить все орды
+
+Defeat the Archmonster
+Победить Архимонстра
+
+Competitive:
+Соперничество:
+
+Solo:
+Самостоятельно:
+
+Collaborative:
+Совместно:
+
+Complete the achievement 
+Выполнить достижение
