@@ -168,3 +168,7 @@ Yew Teeny = Ю Тини
 Klaus = Клаус
 Styffen Chillberg = Стиффен Чиллберг
 David Croquette = Дэвид Крокетт
+Arpagone = Арпагона
+Truce Cavern = Пещера Перемирия
+Melancholy Falls = Водопад Меланхолии
+Stalagmote Territory = Территория Сталагмотов
