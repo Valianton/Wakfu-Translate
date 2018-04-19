@@ -6,7 +6,7 @@ Sureberry Fields = Конечноягодные Поля
 Zeppelantern = Зеппелантерн / Цеппелан
 
 -= Территории =-
-Tydal Prairie = Прерии Тюдал
+Tydal Prairie = Прерии Тайдал
 Flask Garden = Сад Склянок
 Monty's Prairie = Прерии Монти
 Gnarled Barklee's Forest = Лес Корявого Баркли
