@@ -6,7 +6,7 @@ Sureberry Fields = Конечноягодные Поля
 Zeppelantern = Зеппелантерн / Цеппелан
 
 -= Территории =-
-Tydal Prairie = Прерии Тюдал
+Tydal Prairie = Прерии Тайдал
 Flask Garden = Сад Склянок
 Monty's Prairie = Прерии Монти
 Gnarled Barklee's Forest = Лес Корявого Баркли
@@ -40,6 +40,10 @@ Puddlys = Кляксы
 Taurs = Тавры
 Hullcatz = Халкоты
 Crocodyls = Крокодайлы
+Blackspores = Черноспоры
+Raskaw = Раску
+Bworks = Бворки
+Kannivores = Канниворы
 
 -= Остальное =-
 Black Purr = Черный Мурлык
@@ -49,6 +53,7 @@ Spiny Spine = Колючий Шип
 Juicy Sap = Сочная Жидкость
 Amybian = Амибианский
 Murmoor = Мурму / Шепут
+Twelvian = Твелвианцы
 
 -= Имена / NPC =-
 Nanny = Нэнни
@@ -183,3 +188,6 @@ David Croquette = Дэвид Крокетт
 Arpagone = Арпагона
 Siw Bows = Сиф Боуз
 Jacky Lilye Tstrong = Джеки Лилей Тстронг
+Saul the Tortuous = Саул Тортус
+Gynoecium = Гинекей
+Badgwitch = Бадгвич
