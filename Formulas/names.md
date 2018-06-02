@@ -62,6 +62,13 @@ Craborals = Краборалы
 Dopples = Допплы
 Rotceres = Ротчеры
 
+-= Драконы =-
+Ignemikhal = Игнемикхаль
+Terrakourial = Терракуриал
+Aguabrial = Аквабриал
+Dardondakal = Дардондакаль
+Grougalorasalar = Гругалорасалар
+
 -= Остальное =-
 Black Purr = Черный Мурлык
 Freezepop = Заледенец
