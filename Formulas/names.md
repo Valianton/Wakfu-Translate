@@ -26,6 +26,20 @@ Truce Cavern = Пещера Перемирия
 Melancholy Falls = Водопад Меланхолии
 Stalagmote Territory = Территория Сталагмотов
 Skammerzell House = Дом Скраммерцеля
+Shrapnel Cave = Осколочная Пещера
+Пламенная Тропа = Fiery Walk
+Gobblard Boulevard = Бульвар Гоббларда
+Crusty Road = Хрустящий Перевал
+Pancake Bridge = Блинная Мостовая
+Martial Path = Воинственная Аллея
+Gutted Plaza = Потрошительная Площадь
+Swords Crossing = Перекресток Мечей
+Arms Way = Воинственный Путь
+Scara Pass = Перевал Скара
+Unna Bridge = Мост Унна
+Holey Forest = Дырявый Лес
+Gnashville = Скрежетвилль
+Jumpin' Jungle = 
 
 -= Семейства Монстров =-
 Hoodlums = Капюшоны
@@ -44,6 +58,9 @@ Blackspores = Черноспоры
 Raskaw = Раску
 Bworks = Бворки
 Kannivores = Канниворы
+Craborals = Краборалы
+Dopples = Допплы
+Rotceres = Ротчеры
 
 -= Остальное =-
 Black Purr = Черный Мурлык
@@ -54,6 +71,12 @@ Juicy Sap = Сочная Жидкость
 Amybian = Амибианский
 Murmoor = Мурму / Шепут
 Twelvian = Твелвианцы
+Aprophetics = Апрофетики
+Palmflower = Пальмоцвет
+Scurvion = Скавион
+Tyr Anis = Тир Анис, корабль
+Scauldron = Скаулдрон, Горм
+La Mädrague = Ла Мадрей
 
 -= Имена / NPC =-
 Nanny = Нэнни
@@ -191,3 +214,31 @@ Jacky Lilye Tstrong = Джеки Лилей Тстронг
 Saul the Tortuous = Саул Тортус
 Gynoecium = Гинекей
 Badgwitch = Бадгвич
+Fhenris = Фенрис
+Ulgrude of Thunder = Алгруд Громовержец
+Lemmy Luggiver = Лемми Лаггивер
+Bowisse = Боуисс
+Jan Hommand = Ян Хомманд, профессор аркаеологии
+Captain Horus Wrex = Капитан Хорус Врекс
+Great Mister Smisse = Великий Господин Смисс
+Inkama Jones = Инкама Джонс
+Baul Punyan = Баул Пуньян
+Abecedarius Daemonica = Абиседариус Димоник
+Silvosse = Силвосс
+Ouronigride - Уронигрид, Дракон
+Hazieff Taroun = Хазиф Тарун
+
+-= Месяца =-
+Junssidor = Юнссидор
+Jullier = Юллиер
+Maysial = Майсиаль
+Aperirel = Аперирель
+Martalo = Мартало
+Frauguctor = Фраугуктор
+Septangel = Септангель
+Octolliard = Октоллиард
+Novamaire = Новамаир
+Descendre = Десцендр
+Javian = Явиан
+Flovor = Фловор
+Martalo = Мартало
