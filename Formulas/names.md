@@ -227,6 +227,7 @@ Abecedarius Daemonica = Абиседариус Димоник
 Silvosse = Силвосс
 Ouronigride - Уронигрид, Дракон
 Hazieff Taroun = Хазиф Тарун
+Bay Toven = Бай Товен
 
 -= Месяца =-
 Junssidor = Юнссидор
