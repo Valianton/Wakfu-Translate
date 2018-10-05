@@ -11,9 +11,9 @@ quest.zinit.ch2.cine.caisse.01
 Разобраться с:
 durationFormat.yearMonthDayHourMinuteSecond.short=
 
-Больше одного
-{[>1]?s:}
-[~2]
+{[>1]?s:} = Больше одного
+[~2] = ?
+[0>2] = ?
 
 Мысли персонажа
 **Some text
