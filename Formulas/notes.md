@@ -8,10 +8,12 @@ quest.zinit.ch2.cine.caisse.01
 
 ##Подчеркнутый текст##
 
-Больше одного
-{[>1]?s:}
+Разобраться с:
+durationFormat.yearMonthDayHourMinuteSecond.short=
 
-[~2]
+{[>1]?s:} = Больше одного
+[~2] = ?
+[0>2] = ?
 
 Мысли персонажа
 **Some text
