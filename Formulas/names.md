@@ -39,7 +39,7 @@ Scara Pass = Перевал Скара
 Unna Bridge = Мост Унна
 Holey Forest = Дырявый Лес
 Gnashville = Скрежетвилль
-Jumpin' Jungle = 
+Shusnitch Reef = Риф Шуснич
 
 -= Семейства Монстров =-
 Hoodlums = Капюшоны
@@ -234,6 +234,8 @@ Abecedarius Daemonica = Абиседариус Димоник
 Silvosse = Силвосс
 Ouronigride - Уронигрид, Дракон
 Hazieff Taroun = Хазиф Тарун
+Bay Toven = Бай Товен
+Ahr Khayuh = Ахра Каю (жен.)
 
 -= Месяца =-
 Junssidor = Юнссидор
