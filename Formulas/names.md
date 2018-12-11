@@ -235,7 +235,10 @@ Silvosse = Силвосс
 Ouronigride - Уронигрид, Дракон
 Hazieff Taroun = Хазиф Тарун
 Bay Toven = Бай Товен
-Ahr Khayuh = Ахра Каю (жен.)
+Ahr Khayuh = Ахра Каю (жен)
+Silouate = Сулиат
+Hecate = Хеката (жен)
+Pouchecot = Пушку
 
 -= Месяца =-
 Junssidor = Юнссидор
