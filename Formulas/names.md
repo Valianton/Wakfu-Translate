@@ -229,6 +229,22 @@ Ouronigride - Уронигрид, Дракон
 Hazieff Taroun = Хазиф Тарун
 Bay Toven = Бай Товен
 Ahr Khayuh = Ахра Каю (жен.)
+Grossanto = Гроссанто
+Morton Julius = Мортон Юлиус
+Joune Cwarter = Джун Квартер
+Pector Jonson = Пектор Джонсон
+Almangro Wildor = Алмангро Уилдор
+Bob Roston = Боб Ростон
+Freudy = Фроди
+Serah = Сэра
+Teihourra = Тейхурра
+Geoff Grobst = Геофф Гробст
+Kokoumba = Кокумба
+Raphito = Рафито
+Van Pelt = Ван Пельт
+Bart Temis = Барт Темис
+Karlin = Карлин
+Thizaway = Тайзавей
 
 -= Месяца =-
 Junssidor = Юнссидор
