@@ -30,6 +30,8 @@ stackable = суммируется
 smithmagic = кузнемагия
 Indirect Damage = Ненаправленный Урон
 Hours Cell - Клетка Часов
+Stasified - Стазификация
+Round'ope - Круглокрытый
 
 RegEx
 ^content.*=[^а-яА-Яё]*?($)\n
