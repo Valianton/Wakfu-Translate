@@ -13,6 +13,7 @@ Gnarled Barklee's Forest = Лес Корявого Баркли
 Fertile Prairie = Плодородные Прерии
 Cania Plains = Равнины Каниа
 Mourning Wood = Траурный Лес
+Sidimote Moors = Болота Сидимоут
 Terrana Dune = Дюны Террана
 Steamulating Shore = Паровой Край
 Immaterial University of Bonta = Духовный Университет Бонты
@@ -40,6 +41,7 @@ Unna Bridge = Мост Унна
 Holey Forest = Дырявый Лес
 Gnashville = Скрежетвилль
 Shusnitch Reef = Риф Шуснич
+Macheville = Мачвилль
 
 -= Семейства Монстров =-
 Hoodlums = Капюшоны
@@ -245,6 +247,7 @@ Van Pelt = Ван Пельт
 Bart Temis = Барт Темис
 Karlin = Карлин
 Thizaway = Тайзавей
+Drainacask = Драйнакаск
 
 -= Месяца =-
 Junssidor = Юнссидор
