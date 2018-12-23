@@ -81,6 +81,9 @@ Interact with the resources
 Defeat all the hordes
 Победить все орды
 
+Collect all the rare resources
+Соберите все редкие ресурсы
+
 Defeat the Archmonster
 Победить Архимонстра
 

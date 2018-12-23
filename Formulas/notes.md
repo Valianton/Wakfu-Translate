@@ -14,6 +14,8 @@ durationFormat.yearMonthDayHourMinuteSecond.short=
 {[>1]?s:} = Больше одного
 [~2] = ?
 [0>2] = ?
+потестировать
+recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powder{[=1]?:s}
 
 Мысли персонажа
 **Some text
@@ -74,3 +76,5 @@ RegEx
 Фоггернаут:
 [ar978] - Microbots 
 [ar385] - Microbot Rail
+
+Диалоги NPC = content.75

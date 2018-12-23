@@ -238,8 +238,7 @@ Pector Jonson = Пектор Джонсон
 Almangro Wildor = Алмангро Уилдор
 Bob Roston = Боб Ростон
 Freudy = Фроди
-Serah = Сэра
-Teihourra = Тейхурра
+Serah = Сэра (жен.)
 Geoff Grobst = Геофф Гробст
 Kokoumba = Кокумба
 Raphito = Рафито
@@ -248,7 +247,12 @@ Bart Temis = Барт Темис
 Karlin = Карлин
 Thizaway = Тайзавей
 Drainacask = Драйнакаск
-
+Rick Tusse = Рик Туссэ
+Raphito = Рафито
+Teihourra = Тейхурра
+Freudy = Фрейди
+Fertilizator = Фер
+Tibia-Thrasher = Косте-Молотильщик
 -= Месяца =-
 Junssidor = Юнссидор
 Jullier = Юллиер
