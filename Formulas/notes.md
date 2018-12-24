@@ -78,3 +78,4 @@ RegEx
 [ar385] - Microbot Rail
 
 Диалоги NPC = content.75
+Диалоги игрока = content.76

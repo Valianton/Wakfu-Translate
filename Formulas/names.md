@@ -223,6 +223,7 @@ Bowisse = Боуисс
 Jan Hommand = Ян Хомманд, профессор аркаеологии
 Captain Horus Wrex = Капитан Хорус Врекс
 Great Mister Smisse = Великий Господин Смисс
+Smisse World = Уорлд Смисс
 Inkama Jones = Инкама Джонс
 Baul Punyan = Баул Пуньян
 Abecedarius Daemonica = Абиседариус Димоник
@@ -253,6 +254,7 @@ Teihourra = Тейхурра
 Freudy = Фрейди
 Fertilizator = Фер
 Tibia-Thrasher = Косте-Молотильщик
+Ush Galesh = Уш Галеш
 -= Месяца =-
 Junssidor = Юнссидор
 Jullier = Юллиер
