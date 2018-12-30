@@ -146,3 +146,18 @@ The Workshops \n - Trapper \n - Tailor \n - Leather Dealer \n - Jeweler \n- Herb
 
 Sawmill \n - Lumberjack \n- Handyman
 Лесопилка \n - Лесоруб \n- Разнорабочий
+
+During the week, you must take part in 5 Battlefields with your nation and be an ally until the end of each Battlefield. The reward level depends on the character's real level.
+В течение недели вы должны принять участие на 5 Полях Сражений со своей нацией и остаться до конца каждого Поля Сражения. Уровень вознаграждения зависит от реального уровня персонажа.
+
+During the week, you must take part in 3 Battlefields and make your nation triumph. The reward level depends on the character's real level.
+В течение недели вы должны принять участие на 3 Полях Сражений и подарить триумфальную победу для своей Нации. Уровень вознаграждения зависит от реального уровня персонажа.
+
+During the week, you must take part in 2 Battlefields and earn a participation grade of B or better. The reward level depends on the character's real level.
+В течение недели вы должны принять участие на 2 Полях Сражений и получить рейтинг участия B или выше. Уровень вознаграждения зависит от реального уровня персонажа.
+
+Using the adjustable level system to reduce your level to level 50, you must defeat the boss of the Royal Pasturizer Dungeon.
+Используя систему регулирования уровней, понизить свой уровень до 50 и победить босса подземелья Royal Pasturizer.
+
+Ruel has found you a very particular request submitted by a certain Miniarch. Miniarch really, really doesn't like archmonsters. They're aggressive, strong... everything Miniarch is not, despite his name. He has asked you to fight them all to quench his thirst for vengeance. Begin with Dew the Early Riser.
+Руэль нашел для вас особое задание, касающееся некого Миниарха. Миниарх, в действительности, не любит архимонстров. Они агрессивны, сильны... все, чего нет у Миниарха, кроме его имени. Он попросил вас сразиться с ними, чтобы утолить его жажду мести. Начните с Dew the Early Riser.

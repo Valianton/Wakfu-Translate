@@ -6,6 +6,7 @@ Sureberry Fields = Конечноягодные Поля
 Zeppelantern = Зеппелантерн / Цеппелан
 
 -= Территории =-
+Tienti Beach = Пляж Тиэнти
 Tydal Prairie = Прерии Тайдал
 Flask Garden = Сад Склянок
 Monty's Prairie = Прерии Монти
@@ -63,6 +64,9 @@ Kannivores = Канниворы
 Craborals = Краборалы
 Dopples = Допплы
 Rotceres = Ротчеры
+LeChouque = Лешук
+Badgeroxes = Барсуксы
+Ethernals = Эфирналы
 
 -= Остальное =-
 Black Purr = Черный Мурлык
@@ -102,7 +106,7 @@ Jonk = Йонк
 Buddy Hully = Бадди Халли
 Milo Tchatch = Майло Чач
 Amelia Hartlyss = Амелия Хартлис
-Eminerell Lebbocq = Эминерелл Лебок
+Eminerell Lebbocq = Эминерелл Леббок
 Laura Craft = Лаура Крафт
 Magnum Bairefute = Магнум Берифьют
 Father Deepboar = Отец Дипбор
@@ -255,6 +259,10 @@ Freudy = Фрейди
 Fertilizator = Фер
 Tibia-Thrasher = Косте-Молотильщик
 Ush Galesh = Уш Галеш
+Hank Skivin = Хэнк Скивин
+Gengas Kin = Генгас Кин
+Grozepin = Грозепин
+Didi Stroyer = Диди Стройер
 -= Месяца =-
 Junssidor = Юнссидор
 Jullier = Юллиер
