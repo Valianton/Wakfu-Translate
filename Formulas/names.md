@@ -6,6 +6,8 @@ Sureberry Fields = Конечноягодные Поля
 Zeppelantern = Зеппелантерн / Цеппелан
 
 -= Территории =-
+Wild Estate = Дикое Поместье
+Tienti Beach = Пляж Тиэнти
 Tydal Prairie = Прерии Тайдал
 Flask Garden = Сад Склянок
 Monty's Prairie = Прерии Монти
@@ -63,6 +65,10 @@ Kannivores = Канниворы
 Craborals = Краборалы
 Dopples = Допплы
 Rotceres = Ротчеры
+LeChouque = Лешук
+Badgeroxes = Барсуксы
+Ethernals = Эфирналы
+Wodents = Гвызуны
 
 -= Остальное =-
 Black Purr = Черный Мурлык
@@ -102,7 +108,7 @@ Jonk = Йонк
 Buddy Hully = Бадди Халли
 Milo Tchatch = Майло Чач
 Amelia Hartlyss = Амелия Хартлис
-Eminerell Lebbocq = Эминерелл Лебок
+Eminerell Lebbocq = Эминерелл Леббок
 Laura Craft = Лаура Крафт
 Magnum Bairefute = Магнум Берифьют
 Father Deepboar = Отец Дипбор
@@ -223,6 +229,7 @@ Bowisse = Боуисс
 Jan Hommand = Ян Хомманд, профессор аркаеологии
 Captain Horus Wrex = Капитан Хорус Врекс
 Great Mister Smisse = Великий Господин Смисс
+Smisse World = Смисс Уорлд
 Inkama Jones = Инкама Джонс
 Baul Punyan = Баул Пуньян
 Abecedarius Daemonica = Абиседариус Димоник
@@ -238,8 +245,7 @@ Pector Jonson = Пектор Джонсон
 Almangro Wildor = Алмангро Уилдор
 Bob Roston = Боб Ростон
 Freudy = Фроди
-Serah = Сэра
-Teihourra = Тейхурра
+Serah = Сэра (жен.)
 Geoff Grobst = Геофф Гробст
 Kokoumba = Кокумба
 Raphito = Рафито
@@ -248,7 +254,19 @@ Bart Temis = Барт Темис
 Karlin = Карлин
 Thizaway = Тайзавей
 Drainacask = Драйнакаск
-
+Rick Tusse = Рик Туссэ
+Raphito = Рафито
+Teihourra = Тейхурра
+Freudy = Фрейди
+Fertilizator = Фер
+Tibia-Thrasher = Косте-Молотильщик
+Ush Galesh = Уш Галеш
+Hank Skivin = Хэнк Скивин
+Gengas Kin = Генгас Кин
+Grozepin = Грозепин
+Didi Stroyer = Диди Стройер
+Brik Tuss = Брик Тусс
+Persee Phore = Перси Фона
 -= Месяца =-
 Junssidor = Юнссидор
 Jullier = Юллиер

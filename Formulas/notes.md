@@ -14,10 +14,14 @@ durationFormat.yearMonthDayHourMinuteSecond.short=
 {[>1]?s:} = Больше одного
 [~2] = ?
 [0>2] = ?
+потестировать
+recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powder{[=1]?:s}
 
 Мысли персонажа
 **Some text
 
+Sufokia Galleries - Штольни Суфокии
+Sufokia Depths - Недра Суфокии
 damage inflicted to ally = Урон, нанесенный союзникам / дополнительный урон
 damage received by the ally = Урон, получаемый от союзников
 non-reducible damage = Неизлечимый урон
@@ -74,3 +78,10 @@ RegEx
 Фоггернаут:
 [ar978] - Microbots 
 [ar385] - Microbot Rail
+
+Диалоги NPC = content.75
+Диалоги игрока = content.76
+Драго-Экспрессы = content.82
+Описание заданий = content.63
+Пункты заданий = content.64
+Предметы в Мире, относящиеся к заданиям = content.106
