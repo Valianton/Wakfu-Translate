@@ -15,7 +15,7 @@ The area's full of monsters. Interact with them the number of times shown to col
 Эта область полна монстров. Взаимодействуйте с ними указанное количество раз, чтобы получить награду.
 
 The area's full of monsters. Eliminate as many of them as possible to collect a reward.
-Эта область полна монстров. Взаимодействуйте с ними столько раз, сколько это возможно, чтобы получить награду.
+Эта область полна монстров. Ликвидируйте их столько, сколько это возможно, чтобы получить награду.
 
 The area's full of monsters. Interact with as many of them as possible to collect the best reward.
 Эта область полна монстров. Взаимодействуйте с ними столько раз, сколько это возможно, чтобы получить лучшую награду.
@@ -81,6 +81,9 @@ Interact with the resources
 Defeat all the hordes
 Победить все орды
 
+Collect all the rare resources
+Соберите все редкие ресурсы
+
 Defeat the Archmonster
 Победить Архимонстра
 
@@ -90,8 +93,71 @@ Competitive:
 Solo:
 Самостоятельно:
 
+Race:
+Гонка:
+
 Collaborative:
 Совместно:
 
 Complete the achievement 
 Выполнить достижение
+
+The Moogrrs have been getting out of control recently, and the ground is covered with their excrement. It appears that if you don't do it yourself, no one will clean up these dung heaps. Interact with them the number of times shown to collect the reward.
+В последнее время Мугрры выходят из-под контроля, и земля покрыта их экскрементами. Похоже, что если вы не сделаете это сами, никто не уберет эти кучи навоза. Взаимодействуйте с ними указанное количество раз, чтобы получить награду.
+
+The Moogrrs have been getting out of control recently, and the ground is covered with their excrement. It appears that if you don't do it yourself, no one will clean up these dung heaps. Interact with as many of them as possible to collect the best reward.
+В последнее время Мугрры выходят из-под контроля, и земля покрыта их экскрементами. Похоже, что если вы не сделаете это сами, никто не уберет эти кучи навоза. Взаимодействуйте с ними столько раз, сколько это возможно, чтобы получить лучшую награду.
+
+The Moogrrs have been getting out of control recently, and the ground is covered with their excrement. It appears that if you don't do it yourself, no one will clean up these dung heaps. Interact with each of them to collect the reward.
+В последнее время Мугрры выходят из-под контроля, и земля покрыта их экскрементами. Похоже, что если вы не сделаете это сами, никто не уберет эти кучи навоза. Взаимодействуйте с каждым из них, чтобы получить награду.
+
+Riktus recruits are on a reconnaissance mission in the mines. This is the dream opportunity to reduce their numbers. Eliminate the number of them shown to collect the reward.
+Рекруты Риктусов вышли на разведку в шахты. Нельзя не воспользоваться такой возможностью, чтобы сократить их количество. Ликвидируйте указанное количество, чтобы получить награду.
+
+Riktus recruits are on a reconnaissance mission in the mines. This is the dream opportunity to reduce their numbers. Eliminate as many of them as possible to collect a reward.
+Рекруты Риктусов вышли на разведку в шахты. Нельзя не воспользоваться такой возможностью, чтобы сократить их количество. Ликвидируйте их столько, сколько это возможно, чтобы получить награду.
+
+Riktus recruits are on a reconnaissance mission in the mines. This is the dream opportunity to reduce their numbers. Eliminate them all to collect the reward.
+Рекруты Риктусов вышли на разведку в шахты. Нельзя не воспользоваться такой возможностью, чтобы сократить их количество. Ликвидируйте их всех, чтобы получить награду.
+
+The fields of Amakna have been overrun by Bow Warguerite. You must remove these weeds as fast as possible. Interact with them the number of times shown to collect the reward.
+Поля Амакны были захвачены Бу Вогритами. Вы должны удалить эти сорняки как можно быстрее. Взаимодействуйте с ними указанное количество раз, чтобы получить награду.
+
+The fields of Amakna have been overrun by Bow Warguerite. You must remove these weeds as fast as possible. Interact with as many of them as possible to collect the best reward.
+Поля Амакны были захвачены Бу Вогритами. Вы должны удалить эти сорняки как можно быстрее. Взаимодействуйте с ними столько раз, сколько это возможно, чтобы получить лучшую награду.
+
+The fields of Amakna have been overrun by Bow Warguerite. You must remove these weeds as fast as possible. Interact with each of them to collect the reward.
+Поля Амакны были захвачены Бу Вогритами. Вы должны удалить эти сорняки как можно быстрее. Взаимодействуйте с каждым из них, чтобы получить награду.
+
+Bank \n - Guild Chest\n- Kama-Minting Machine
+Банк\n - Сундук Гильдии\n- Станок Чеканки Кам
+
+Administrative District\n - Guild Desk \n - Guild Rankings\n - Guild-o-Mat \n- Runic Recycler
+Административный Округ\n - Стол Гильдии \n - Рейтинги Гильдий\n - Guild-o-Mat \n- Утилизатор Рун
+
+Kitchens \n - Farmer\n - Baker\n - Chef\n- Fisherman
+Кухни \n - Фермер\n - Пекарь\n - Повар\n- Рыбак
+
+Forges\n - Weapons\n - Armorer\n- Miner
+Кузни\n - Оружие\n - Мастера Доспехов\n- Рудокоп
+
+The Workshops \n - Trapper \n - Tailor \n - Leather Dealer \n - Jeweler \n- Herbalist
+Мастерские \n - Охотник \n - Портной \n - Кожевник \n - Ювелир \n- Травник
+
+Sawmill \n - Lumberjack \n- Handyman
+Лесопилка \n - Лесоруб \n- Разнорабочий
+
+During the week, you must take part in 5 Battlefields with your nation and be an ally until the end of each Battlefield. The reward level depends on the character's real level.
+В течение недели вы должны принять участие на 5 Полях Сражений со своей нацией и остаться до конца каждого Поля Сражения. Уровень вознаграждения зависит от реального уровня персонажа.
+
+During the week, you must take part in 3 Battlefields and make your nation triumph. The reward level depends on the character's real level.
+В течение недели вы должны принять участие на 3 Полях Сражений и подарить триумфальную победу для своей Нации. Уровень вознаграждения зависит от реального уровня персонажа.
+
+During the week, you must take part in 2 Battlefields and earn a participation grade of B or better. The reward level depends on the character's real level.
+В течение недели вы должны принять участие на 2 Полях Сражений и получить рейтинг участия B или выше. Уровень вознаграждения зависит от реального уровня персонажа.
+
+Using the adjustable level system to reduce your level to level 50, you must defeat the boss of the Royal Pasturizer Dungeon.
+Используя систему регулирования уровней, понизить свой уровень до 50 и победить босса подземелья Royal Pasturizer.
+
+Ruel has found you a very particular request submitted by a certain Miniarch. Miniarch really, really doesn't like archmonsters. They're aggressive, strong... everything Miniarch is not, despite his name. He has asked you to fight them all to quench his thirst for vengeance. Begin with Dew the Early Riser.
+Руэль нашел для вас особое задание, касающееся некого Миниарха. Миниарх, в действительности, не любит архимонстров. Они агрессивны, сильны... все, чего нет у Миниарха, кроме его имени. Он попросил вас сразиться с ними, чтобы утолить его жажду мести. Начните с Dew the Early Riser.
