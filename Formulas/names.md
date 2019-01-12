@@ -6,6 +6,7 @@ Sureberry Fields = Конечноягодные Поля
 Zeppelantern = Зеппелантерн / Цеппелан
 
 -= Территории =-
+Wild Estate = Дикое Поместье
 Tienti Beach = Пляж Тиэнти
 Tydal Prairie = Прерии Тайдал
 Flask Garden = Сад Склянок
@@ -67,6 +68,7 @@ Rotceres = Ротчеры
 LeChouque = Лешук
 Badgeroxes = Барсуксы
 Ethernals = Эфирналы
+Wodents = Гвызуны
 
 -= Остальное =-
 Black Purr = Черный Мурлык
@@ -227,7 +229,7 @@ Bowisse = Боуисс
 Jan Hommand = Ян Хомманд, профессор аркаеологии
 Captain Horus Wrex = Капитан Хорус Врекс
 Great Mister Smisse = Великий Господин Смисс
-Smisse World = Уорлд Смисс
+Smisse World = Смисс Уорлд
 Inkama Jones = Инкама Джонс
 Baul Punyan = Баул Пуньян
 Abecedarius Daemonica = Абиседариус Димоник
@@ -263,6 +265,8 @@ Hank Skivin = Хэнк Скивин
 Gengas Kin = Генгас Кин
 Grozepin = Грозепин
 Didi Stroyer = Диди Стройер
+Brik Tuss = Брик Тусс
+Persee Phore = Перси Фона
 -= Месяца =-
 Junssidor = Юнссидор
 Jullier = Юллиер
