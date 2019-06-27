@@ -161,3 +161,15 @@ Using the adjustable level system to reduce your level to level 50, you must def
 
 Ruel has found you a very particular request submitted by a certain Miniarch. Miniarch really, really doesn't like archmonsters. They're aggressive, strong... everything Miniarch is not, despite his name. He has asked you to fight them all to quench his thirst for vengeance. Begin with Dew the Early Riser.
 Руэль нашел для вас особое задание, касающееся некого Миниарха. Миниарх, в действительности, не любит архимонстров. Они агрессивны, сильны... все, чего нет у Миниарха, кроме его имени. Он попросил вас сразиться с ними, чтобы утолить его жажду мести. Начните с Dew the Early Riser.
+
+On the dates shown on the website for the Boss Smasher, defeat the announced Boss after adjusting your level to match the dungeon and setting Stasis to 21 or higher.
+В течении дат, указанных на веб-сайте для события Boss Smasher, победите объявленного Босса после того, как установите свой уровень в соответствии с подземельем и Стазисом 21 или выше.
+
+Mercenary Posts let you take on contracts with rewards worthy of the completed task, in each region of the World of Twelve and beyond. To take on contracts, you must first have proven your worth and be up to level for the area in which the contracts are located.\nThere are 3 difficulty rankings. You must finish all Rank 1 contracts before you can take on Rank 2 contracts. You must finish all Rank 2 contracts before you can take on Rank 3 contracts.
+Посты Наемников позволяют вам заключать контракты с наградами, достойные завершенной задачи в каждом региона Мира Двенадцати и за его пределами. Перед тем как заключить контракт, вам необходимо получить лицензию Наемника в регионе, в котором хотите выполнять контракты.\nЯ отвечаю за лицензии в Аструбе и в его окрестностях.\nВсегда есть по крайней мере три уровня рангов, отличающиеся по сложности. Для того чтобы иметь право принимать контракты 2-го ранга, вы должны выполнить все контракты 1-го ранга. И для того, чтобы принимать контракты 3-го ранга - выполнить все контракты 2-го ранга.
+Посты Наемников позволяют вам заключать контракты с наградами, достойные завершенной задачи в каждом региона Мира Двенадцати и за его пределами. Перед тем как заключить контракт, вам необходимо получить лицензию Наемника в регионе, в котором хотите выполнять контракты.\nВсегда есть по крайней мере три уровня рангов, отличающиеся по сложности. Для того чтобы иметь право принимать контракты 2-го ранга, вы должны выполнить все контракты 1-го ранга. И для того, чтобы принимать контракты 3-го ранга - выполнить все контракты 2-го ранга.
+
+Возможно. Либо у вас нет необходимого уровня для новых контрактов, либо вы, возможно, уже выполнили их все! Ничто не мешает вам самим решать другие проблемы, не ожидая от нас награды! Вы все равно будете совершенствоваться, так что не стесняйтесь.
+
+I don't see any available contracts at the Mercenary Post.
+Я не вижу доступных контрактов на Посту Наемников.

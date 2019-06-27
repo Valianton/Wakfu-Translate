@@ -6,6 +6,7 @@ Sureberry Fields = Конечноягодные Поля
 Zeppelantern = Зеппелантерн / Цеппелан
 
 -= Территории =-
+Snowbound Snowbound Village = Снежно-Заснеженная Деревня
 Wild Estate = Дикое Поместье
 Tienti Beach = Пляж Тиэнти
 Tydal Prairie = Прерии Тайдал
@@ -70,13 +71,6 @@ Badgeroxes = Барсуксы
 Ethernals = Эфирналы
 Wodents = Гвызуны
 
--= Драконы =-
-Ignemikhal = Игнемикхаль
-Terrakourial = Терракуриал
-Aguabrial = Аквабриал
-Dardondakal = Дардондакаль
-Grougalorasalar = Гругалорасалар
-
 -= Остальное =-
 Black Purr = Черный Мурлык
 Freezepop = Заледенец
@@ -92,6 +86,7 @@ Scurvion = Скавион
 Tyr Anis = Тир Анис, корабль
 Scauldron = Скаулдрон, Горм
 La Mädrague = Ла Мадрей
+Hairy Moon = Мохнатая Луна
 
 -= Имена / NPC =-
 Nanny = Нэнни
@@ -244,10 +239,7 @@ Silvosse = Силвосс
 Ouronigride - Уронигрид, Дракон
 Hazieff Taroun = Хазиф Тарун
 Bay Toven = Бай Товен
-Ahr Khayuh = Ахра Каю (жен)
-Silouate = Сулиат
-Hecate = Хеката (жен)
-Pouchecot = Пушку
+Ahr Khayuh = Ахра Каю (жен.)
 Grossanto = Гроссанто
 Morton Julius = Мортон Юлиус
 Joune Cwarter = Джун Квартер
