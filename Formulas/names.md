@@ -1,11 +1,16 @@
+-----------------
 -= Подземелья =-
+-----------------
 Maine Goon = Майн Гун
 Raised Vault = Убежище Поднятых
 Shedder = Шед
 Sureberry Fields = Конечноягодные Поля
 Zeppelantern = Зеппелантерн / Цеппелан
 
+
+-----------------
 -= Территории =-
+-----------------
 Wild Estate = Дикое Поместье
 Tienti Beach = Пляж Тиэнти
 Tydal Prairie = Прерии Тайдал
@@ -44,8 +49,14 @@ Holey Forest = Дырявый Лес
 Gnashville = Скрежетвилль
 Shusnitch Reef = Риф Шуснич
 Macheville = Мачвилль
+Pandalucia Valley = Долина Пандалусия
+Ping San's Inn = Трактир Пинг Сан
+Grand Puddah Statue = Статуя Великой Пудды
+Pandiego de la Vega's House = Дом Пандиго де ла Вега
 
+------------------------
 -= Семейства Монстров =-
+------------------------
 Hoodlums = Капюшоны
 Blackspore = Черноспоры
 Snowfoux = Снежнолис
@@ -69,8 +80,10 @@ LeChouque = Лешук
 Badgeroxes = Барсуксы
 Ethernals = Эфирналы
 Wodents = Гвызуны
-
+Mushds = Шламсы (отходы чел.деятельности при раскопках)
+-----------------
 -= Остальное =-
+-----------------
 Black Purr = Черный Мурлык
 Freezepop = Заледенец
 Crystoshade Condenser = Кристаллотеневой Конденсатор
@@ -85,8 +98,12 @@ Scurvion = Скавион
 Tyr Anis = Тир Анис, корабль
 Scauldron = Скаулдрон, Горм
 La Mädrague = Ла Мадрей
+Thirsters = Жаждущие
 
+
+-----------------
 -= Имена / NPC =-
+-----------------
 Nanny = Нэнни
 Master Bossowl = Мастер Главфилин
 Wikan Dewitt = Викан Девитт
@@ -267,7 +284,15 @@ Grozepin = Грозепин
 Didi Stroyer = Диди Стройер
 Brik Tuss = Брик Тусс
 Persee Phore = Перси Фона
+Ray Dlabel = Рэй Длабел
+Chiv Asregal = Чив Асригл
+Scott Chhh = Скотт Ччче
+Lab Elfive = Лаб Элфайв
+Tanukouï San = Танукой Сан
+
+-----------------
 -= Месяца =-
+-----------------
 Junssidor = Юнссидор
 Jullier = Юллиер
 Maysial = Майсиаль
