@@ -24,6 +24,7 @@ Sufokia Galleries - Штольни Суфокии
 Sufokia Depths - Недра Суфокии
 damage inflicted to ally = Урон, нанесенный союзникам / дополнительный урон
 damage received by the ally = Урон, получаемый от союзников
+suffers damage = получе
 non-reducible damage = Неизлечимый урон
 Heals received = Получаемое Исцеление
 Heals perfomed = Навык лечения у цели увеличен
@@ -79,9 +80,9 @@ RegEx
 [ar978] - Microbots 
 [ar385] - Microbot Rail
 
-Диалоги NPC = content.75
-Диалоги игрока = content.76
-Драго-Экспрессы = content.82
-Описание заданий = content.63
-Пункты заданий = content.64
-Предметы в Мире, относящиеся к заданиям = content.106
+content.75 - Диалоги NPC
+content.76 - Диалоги игрока
+content.82 - Драго-Экспрессы
+content.63 - Описание заданий
+content.64 - Пункты заданий
+content.106 - Предметы в Мире, относящиеся к заданиям
