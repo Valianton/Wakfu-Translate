@@ -1,11 +1,16 @@
+-----------------
 -= Подземелья =-
+-----------------
 Maine Goon = Майн Гун
 Raised Vault = Убежище Поднятых
 Shedder = Шед
 Sureberry Fields = Конечноягодные Поля
 Zeppelantern = Зеппелантерн / Цеппелан
 
+
+-----------------
 -= Территории =-
+-----------------
 Snowbound Snowbound Village = Снежно-Заснеженная Деревня
 Wild Estate = Дикое Поместье
 Tienti Beach = Пляж Тиэнти
@@ -45,8 +50,15 @@ Holey Forest = Дырявый Лес
 Gnashville = Скрежетвилль
 Shusnitch Reef = Риф Шуснич
 Macheville = Мачвилль
+Pandalucia Valley = Долина Пандалусия
+Ping San's Inn = Трактир Пинг Сан
+Grand Puddah Statue = Статуя Великой Пудды
+Pandiego de la Vega's House = Дом Пандиго де ла Вега
+Ice Floe = Ледяное Поле
 
+------------------------
 -= Семейства Монстров =-
+------------------------
 Hoodlums = Капюшоны
 Blackspore = Черноспоры
 Snowfoux = Снежнолис
@@ -70,8 +82,10 @@ LeChouque = Лешук
 Badgeroxes = Барсуксы
 Ethernals = Эфирналы
 Wodents = Гвызуны
-
+Mushds = Шламсы (отходы чел.деятельности при раскопках)
+-----------------
 -= Остальное =-
+-----------------
 Black Purr = Черный Мурлык
 Freezepop = Заледенец
 Crystoshade Condenser = Кристаллотеневой Конденсатор
@@ -87,8 +101,13 @@ Tyr Anis = Тир Анис, корабль
 Scauldron = Скаулдрон, Горм
 La Mädrague = Ла Мадрей
 Hairy Moon = Мохнатая Луна
+Thirsters = Жаждущие
+Fleaster = Фласха
 
+
+-----------------
 -= Имена / NPC =-
+-----------------
 Nanny = Нэнни
 Master Bossowl = Мастер Главфилин
 Wikan Dewitt = Викан Девитт
@@ -114,7 +133,7 @@ Eminerell Lebbocq = Эминерелл Леббок
 Laura Craft = Лаура Крафт
 Magnum Bairefute = Магнум Берифьют
 Father Deepboar = Отец Дипбор
-Missiz Freezz = Миссиз Фриз
+Kya, Missiz Freezz = Киа, Миссиз Фриз
 Mayor Cantile = Майор Кантайл
 Lucille Bricant = Люсиль Брикент
 Harebourg = Хэбург
@@ -161,7 +180,7 @@ Max Arturo = Макс Артуро
 Li'l Owain = Лил Овейн
 Pappy Pal = Паппи Пал
 Vilenya = Виленья
-Charles-Henri of Vileardent = Чарльз-Анри из Вилеардента
+Charles-Henri of Vileardent = Шарль-Анри Вилардентский
 Savhanna the Silky = Савхана Шелковистая
 Skrapur Kutmairo = Скрапу Катмаиро
 Tonguetwist LaMouth = Тонтвист Ламон
@@ -269,7 +288,19 @@ Grozepin = Грозепин
 Didi Stroyer = Диди Стройер
 Brik Tuss = Брик Тусс
 Persee Phore = Перси Фона
+Ray Dlabel = Рэй Длабел
+Chiv Asregal = Чив Асригл
+Scott Chhh = Скотт Ччче
+Lab Elfive = Лаб Элфайв
+Tanukouï San = Танукой Сан
+Jacquemart Astron Harebourg =  Жакмарт Астрон Хэбург
+Nyl = Найл
+Apothecloakery = Апофеклоакери
+Ignemikhal = Игнемихал
+
+-----------------
 -= Месяца =-
+-----------------
 Junssidor = Юнссидор
 Jullier = Юллиер
 Maysial = Майсиаль
