@@ -24,6 +24,7 @@ Sufokia Galleries - Штольни Суфокии
 Sufokia Depths - Недра Суфокии
 damage inflicted to ally = Урон, нанесенный союзникам / дополнительный урон
 damage received by the ally = Урон, получаемый от союзников
+suffers damage = получе
 non-reducible damage = Неизлечимый урон
 Heals received = Получаемое Исцеление
 Heals perfomed = Навык лечения у цели увеличен

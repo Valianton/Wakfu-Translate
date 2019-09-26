@@ -14,6 +14,9 @@ The area's full of monsters. Interact with each of them to collect the reward.
 The area's full of monsters. Interact with them the number of times shown to collect the reward.
 Эта область полна монстров. Взаимодействуйте с ними указанное количество раз, чтобы получить награду.
 
+Interact with one of them as quickly as possible to get the reward.
+Взаимодействуйте с одним из них как можно быстрее, чтобы получить награду.
+
 The area's full of monsters. Eliminate as many of them as possible to collect a reward.
 Эта область полна монстров. Ликвидируйте их столько, сколько это возможно, чтобы получить награду.
 
@@ -36,6 +39,12 @@ The area's full of resources. Interact with each of them to collect the reward.
 The area's full of resources. Interact with them the number of times shown to collect the reward.
 Эта область полна ресурсов. Взаимодействуйте с ними указанное количество раз, чтобы получить награду.
 
+Поспешите и взаимодействуйте с одним из них, чтобы получить награду.
+Hurry up and interact with one of them to get the reward.
+
+Взаимодействуйте с ними, чтобы получить награду.
+Interact with them to get the reward.
+
 An Archmonster has just appeared in the area. It has exclusive loot.
 Архимонстр только что появился в области. Он обладает исключительным лутом.
 
@@ -55,7 +64,7 @@ Defeat all the monsters
 Победить всех монстров
 
 Defeat all the invasive monsters
-Победить всех агрессивных монстров
+Победить всех вторгшихся монстров
 
 Defeat as many monsters as possible
 Победить столько монстров, сколько это возможно
@@ -94,7 +103,7 @@ Solo:
 Самостоятельно:
 
 Race:
-Гонка:
+Состязание:
 
 Collaborative:
 Совместно:
@@ -119,6 +128,17 @@ Riktus recruits are on a reconnaissance mission in the mines. This is the dream 
 
 Riktus recruits are on a reconnaissance mission in the mines. This is the dream opportunity to reduce their numbers. Eliminate them all to collect the reward.
 Рекруты Риктусов вышли на разведку в шахты. Нельзя не воспользоваться такой возможностью, чтобы сократить их количество. Ликвидируйте их всех, чтобы получить награду.
+
+Even more back from the dead! This time it's Chafers, revived by an ancient, powerful curse. Even though the curse had been broken centuries ago, it won't ever go away completely and Chafers will always reappear in the cemetery. Eliminate them all to collect the reward.
+Еще больше вернулось из мертвых! На этот раз это Чаферы, возрожденные древним, мощным проклятием. Несмотря на то, что проклятие было разрушено много веков назад, оно никогда не исчезнет полностью, и на кладбище всегда будут появляться Чаферы. Ликвидируйте их всех, чтобы получить награду.
+
+Scaras are rumbling around the arid zones in Pandalucia and proliferating because of the abnormally high temperatures in the zone. They aren't necessarily having a positive impact because they are aggressive and love destroying rock. In time this could change the entire face of the island. Eliminate them all to collect the reward.
+Скары грохочут вокруг засушливых зон в Пандалусии и размножаются из-за аномально высоких температур в зоне. Тем самым они не оказывают положительное влияние, потому что они агрессивны и любят разрушать скалы. Со временем это может изменить внешний вид острова. Ликвидируйте их всех, чтобы получить награду.
+
+A group of rats had moved into the basement of a house in Pandalucia. All went well until they accidentally opened a barrel of bamboo milk. The consequences for these sloshed rats are very visible and quite catastrophic. Eliminate them all to collect the reward.
+Группа крыс перебралась в подвал одного из домов в Пандалусии. Все бы ничего, но они обнаружили и смогли открыть бочку с бамбуковым молоком. Последствия, которые могут оставить после себя эти выпившие крысы могут быть довольно катастрофичными. Ликвидируйте их всех, чтобы получить награду.
+
+Mushds are coming out of the swamps contaminated with bad Plantala spores. They could expand the swamp zone and start attacking villages if they aren't stopped. Eliminate them all to collect the reward.
 
 The fields of Amakna have been overrun by Bow Warguerite. You must remove these weeds as fast as possible. Interact with them the number of times shown to collect the reward.
 Поля Амакны были захвачены Бу Вогритами. Вы должны удалить эти сорняки как можно быстрее. Взаимодействуйте с ними указанное количество раз, чтобы получить награду.
