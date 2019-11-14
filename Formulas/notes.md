@@ -20,8 +20,8 @@ recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powd
 Мысли персонажа
 **Some text
 
-Sufokia Galleries - Штольни Суфокии
-Sufokia Depths - Недра Суфокии
+Sufokia Galleries = Штольни Суфокии
+Sufokia Depths = Недра Суфокии
 damage inflicted to ally = Урон, нанесенный союзникам / дополнительный урон
 damage received by the ally = Урон, получаемый от союзников
 suffers damage = получе
@@ -34,10 +34,10 @@ is released = высвобождение
 stackable = суммируется
 smithmagic = кузнемагия
 Indirect Damage = Ненаправленный Урон
-Hours Cell - Клетка Часов
-Stasified - Стазификация
-Round'ope - Круглокрытый
-
+Hours Cell = Клетка Часов (Часовая Клетка)
+Stasified = Стазификация
+Round'ope = Круглокрытый
+penetrates Armor = пробивает Броню
 RegEx
 ^content.*=[^а-яА-Яё]*?($)\n
 ^*?=[^а-яА-Яё]*?($)\n

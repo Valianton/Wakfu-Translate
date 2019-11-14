@@ -193,3 +193,6 @@ Mercenary Posts let you take on contracts with rewards worthy of the completed t
 
 I don't see any available contracts at the Mercenary Post.
 Я не вижу доступных контрактов на Посту Наемников.
+
+This item must be converted into shards using the Recycle button at the top of the inventory window.
+Этот предмет должен быть преобразован в осколки с помощью кнопки утилизации в верхней части окна инвентаря.
