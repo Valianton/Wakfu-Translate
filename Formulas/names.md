@@ -11,6 +11,7 @@ Zeppelantern = Зеппелантерн / Цеппелан
 -----------------
 -= Территории =-
 -----------------
+Snowbound Snowbound Village = Снежно-Заснеженная Деревня
 Wild Estate = Дикое Поместье
 Tienti Beach = Пляж Тиэнти
 Tydal Prairie = Прерии Тайдал
@@ -53,6 +54,7 @@ Pandalucia Valley = Долина Пандалусия
 Ping San's Inn = Трактир Пинг Сан
 Grand Puddah Statue = Статуя Великой Пудды
 Pandiego de la Vega's House = Дом Пандиго де ла Вега
+Ice Floe = Ледяное Поле
 
 ------------------------
 -= Семейства Монстров =-
@@ -98,7 +100,9 @@ Scurvion = Скавион
 Tyr Anis = Тир Анис, корабль
 Scauldron = Скаулдрон, Горм
 La Mädrague = Ла Мадрей
+Hairy Moon = Мохнатая Луна
 Thirsters = Жаждущие
+Fleaster = Фласха
 
 
 -----------------
@@ -129,7 +133,7 @@ Eminerell Lebbocq = Эминерелл Леббок
 Laura Craft = Лаура Крафт
 Magnum Bairefute = Магнум Берифьют
 Father Deepboar = Отец Дипбор
-Missiz Freezz = Миссиз Фриз
+Kya, Missiz Freezz = Киа, Миссиз Фриз
 Mayor Cantile = Майор Кантайл
 Lucille Bricant = Люсиль Брикент
 Harebourg = Хэбург
@@ -176,7 +180,7 @@ Max Arturo = Макс Артуро
 Li'l Owain = Лил Овейн
 Pappy Pal = Паппи Пал
 Vilenya = Виленья
-Charles-Henri of Vileardent = Чарльз-Анри из Вилеардента
+Charles-Henri of Vileardent = Шарль-Анри Вилардентский
 Savhanna the Silky = Савхана Шелковистая
 Skrapur Kutmairo = Скрапу Катмаиро
 Tonguetwist LaMouth = Тонтвист Ламон
@@ -289,6 +293,10 @@ Chiv Asregal = Чив Асригл
 Scott Chhh = Скотт Ччче
 Lab Elfive = Лаб Элфайв
 Tanukouï San = Танукой Сан
+Jacquemart Astron Harebourg =  Жакмарт Астрон Хэбург
+Nyl = Найл
+Apothecloakery = Апофеклоакери
+Ignemikhal = Игнемихал
 
 -----------------
 -= Месяца =-
