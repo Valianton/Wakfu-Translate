@@ -196,3 +196,9 @@ I don't see any available contracts at the Mercenary Post.
 
 This item must be converted into shards using the Recycle button at the top of the inventory window.
 Этот предмет должен быть преобразован в осколки с помощью кнопки утилизации в верхней части окна инвентаря.
+
+These powders are produced by recycling items. They are used to create new items, or to produce forgemagic runes, allowing you to increase items' power.
+Эти порошки производятся путем переработки предметов. Они используются для создания новых предметов или создания кузнечных рун, что позволяет вам увеличить силу предметов.
+
+You can use this rune to improve an item's characteristics.
+Вы можете использовать эту руну, чтобы улучшить характеристики предмета.

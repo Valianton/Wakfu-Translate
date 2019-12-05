@@ -103,6 +103,7 @@ La Mädrague = Ла Мадрей
 Hairy Moon = Мохнатая Луна
 Thirsters = Жаждущие
 Fleaster = Фласха
+Enchantment Workshop = Мастерская Волшебства
 
 
 -----------------
@@ -297,6 +298,8 @@ Jacquemart Astron Harebourg =  Жакмарт Астрон Хэбург
 Nyl = Найл
 Apothecloakery = Апофеклоакери
 Ignemikhal = Игнемихал
+Dan Sominik Kraust = Дан Соминик Крауст
+
 
 -----------------
 -= Месяца =-
