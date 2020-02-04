@@ -38,6 +38,7 @@ Hours Cell = Клетка Часов (Часовая Клетка)
 Stasified = Стазификация
 Round'ope = Круглокрытый
 penetrates Armor = пробивает Броню
+Finisher - Сокрушительный Удар
 RegEx
 ^content.*=[^а-яА-Яё]*?($)\n
 ^*?=[^а-яА-Яё]*?($)\n

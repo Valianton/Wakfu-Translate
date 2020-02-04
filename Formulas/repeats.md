@@ -196,3 +196,9 @@ I don't see any available contracts at the Mercenary Post.
 
 This item must be converted into shards using the Recycle button at the top of the inventory window.
 Этот предмет должен быть преобразован в осколки с помощью кнопки утилизации в верхней части окна инвентаря.
+
+An experienced trapper toiled tirelessly to collect the sticky substance contained in this flask! A few drops should suffice.
+Опытный охотник неустанно трудился, чтобы собрать липкое вещество, содержащееся в этой колбе! Нескольких капель должно быть достаточно.
+
+Roaring Trade
+Живая Торговля
