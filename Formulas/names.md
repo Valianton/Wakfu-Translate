@@ -106,6 +106,7 @@ La Mädrague = Ла Мадрей
 Hairy Moon = Мохнатая Луна
 Thirsters = Жаждущие
 Fleaster = Фласха
+Enchantment Workshop = Мастерская Волшебства
 
 
 -----------------
@@ -305,6 +306,9 @@ Naomi Neral = Наоми Нерал
 Lugiani = Луджиани
 Viscus = Вискус
 Sprunga Leek = Спрунга Лик
+Dan Sominik Kraust = Дан Соминик Крауст
+
+
 -----------------
 -= Месяца =-
 -----------------

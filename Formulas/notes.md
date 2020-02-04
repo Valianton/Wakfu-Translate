@@ -23,6 +23,7 @@ recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powd
 Sufokia Galleries = Штольни Суфокии
 Sufokia Depths = Недра Суфокии
 damage inflicted to ally = Урон, нанесенный союзникам / дополнительный урон
+inflict damage = наносит урон
 damage received by the ally = Урон, получаемый от союзников
 suffers damage = получе
 non-reducible damage = Неизлечимый урон
@@ -44,6 +45,8 @@ RegEx
 ^*?=[^а-яА-Яё]*?($)\n
 ^content\..*?=\n
 \S*$ - Слово без пробела
+
+Dodge = Проворство
 
 Иконки в описании умений
 [glyph] - Символ на земле

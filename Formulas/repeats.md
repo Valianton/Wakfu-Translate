@@ -202,3 +202,8 @@ An experienced trapper toiled tirelessly to collect the sticky substance contain
 
 Roaring Trade
 Живая Торговля
+These powders are produced by recycling items. They are used to create new items, or to produce forgemagic runes, allowing you to increase items' power.
+Эти порошки производятся путем переработки предметов. Они используются для создания новых предметов или создания кузнечных рун, что позволяет вам увеличить силу предметов.
+
+You can use this rune to improve an item's characteristics.
+Вы можете использовать эту руну, чтобы улучшить характеристики предмета.
