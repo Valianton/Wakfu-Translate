@@ -8,13 +8,12 @@ rem rus ChatOnly update
 powershell -Command "Copy-Item $pwd\tmpTranslate\Wakfu-Translate-master\Translated\Fonts\wci-bold-9.fnt -destination $pwd\tmpTranslate\chatonly\theme\fonts"
 powershell -Command "Copy-Item $pwd\tmpTranslate\Wakfu-Translate-master\Translated\Fonts\wci-bold-9_0.dds -destination $pwd\tmpTranslate\chatonly\theme\fonts"
 rem rus Fonts update
-powershell -Command "Copy-Item $pwd\tmpTranslate\Wakfu-Translate-master\Translated\Fonts -destination $pwd\tmpTranslate\theme\fonts -recurse"
-powershell -Command "Copy-Item $pwd\tmpTranslate\Wakfu-Translate-master\Translated\Texts -destination $pwd\tmpTranslate\i18n -recurse"
+powershell -Command "Copy-Item $pwd\tmpTranslate\Wakfu-Translate-master\Translated\fonts -destination $pwd\tmpTranslate\theme -recurse"
+powershell -Command "Copy-Item $pwd\tmpTranslate\Wakfu-Translate-master\Translated\texts\texts_en.properties -destination $pwd\tmpTranslate\i18n"
 cd tmpTranslate
 Wakfu-Translate-master\Instruments\zip.exe -r ..\contents\gui_jar\gui.jar theme
 cd i18n
 ..\Wakfu-Translate-master\Instruments\zip.exe -r ..\..\contents\i18n\i18n_en.jar texts_en.properties
 cd ..
 cd ..
-powershell -Command "Remove-Item $pwd\tmpTranslate -Force -Recurse -ErrorAction SilentlyContinue"
 pause
