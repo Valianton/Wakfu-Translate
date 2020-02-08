@@ -53,8 +53,11 @@ Macheville = Мачвилль
 Pandalucia Valley = Долина Пандалусия
 Ping San's Inn = Трактир Пинг Сан
 Grand Puddah Statue = Статуя Великой Пудды
-Pandiego de la Vega's House = Дом Пандиго де ла Вега
+Pandiego de la Vega's House = Дом Пандиего де ла Вега
 Ice Floe = Ледяное Поле
+Boowolf Clearing = Прогалина Буволков
+Deforested Forest = Вырубленный Лес
+Web-Entangled Hill = Спутанный Холм
 
 ------------------------
 -= Семейства Монстров =-
@@ -103,6 +106,7 @@ La Mädrague = Ла Мадрей
 Hairy Moon = Мохнатая Луна
 Thirsters = Жаждущие
 Fleaster = Фласха
+Enchantment Workshop = Мастерская Волшебства
 
 
 -----------------
@@ -297,6 +301,13 @@ Jacquemart Astron Harebourg =  Жакмарт Астрон Хэбург
 Nyl = Найл
 Apothecloakery = Апофеклоакери
 Ignemikhal = Игнемихал
+Tarak Nofobe = Тарак Нофоб
+Naomi Neral = Наоми Нерал
+Lugiani = Луджиани
+Viscus = Вискус
+Sprunga Leek = Спрунга Лик
+Dan Sominik Kraust = Дан Соминик Крауст
+
 
 -----------------
 -= Месяца =-

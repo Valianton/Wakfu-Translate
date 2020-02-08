@@ -196,3 +196,14 @@ I don't see any available contracts at the Mercenary Post.
 
 This item must be converted into shards using the Recycle button at the top of the inventory window.
 Этот предмет должен быть преобразован в осколки с помощью кнопки утилизации в верхней части окна инвентаря.
+
+An experienced trapper toiled tirelessly to collect the sticky substance contained in this flask! A few drops should suffice.
+Опытный охотник неустанно трудился, чтобы собрать липкое вещество, содержащееся в этой колбе! Нескольких капель должно быть достаточно.
+
+Roaring Trade
+Живая Торговля
+These powders are produced by recycling items. They are used to create new items, or to produce forgemagic runes, allowing you to increase items' power.
+Эти порошки производятся путем переработки предметов. Они используются для создания новых предметов или создания кузнечных рун, что позволяет вам увеличить силу предметов.
+
+You can use this rune to improve an item's characteristics.
+Вы можете использовать эту руну, чтобы улучшить характеристики предмета.
