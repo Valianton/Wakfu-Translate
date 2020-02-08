@@ -26,5 +26,5 @@ $PSVersionTable.PSVersion
 ### <a name="rusifikator"></a>Установка Русификатора
 
 * Скачать архив [WRT](https://github.com/Valianton/Wakfu-Translate/raw/master/Instruments/wrt.rar)
-* Распаковать его в каталоге игры.
+* Распаковать его в каталоге игры (пример C:\Users\{YouUserName}\AppData\Local\Ankama\zaap\wakfu)
 * Запустить **WRT_rus.bat**
