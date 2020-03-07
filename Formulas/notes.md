@@ -23,6 +23,7 @@ recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powd
 Sufokia Galleries = Штольни Суфокии
 Sufokia Depths = Недра Суфокии
 damage inflicted to ally = Урон, нанесенный союзникам / дополнительный урон
+damage inflicted - увеличение урона
 inflict damage = наносит урон
 damage received by the ally = Урон, получаемый от союзников
 suffers damage = получе
@@ -92,4 +93,4 @@ Dodge = Проворство
 Предметы в Мире, относящиеся к заданиям = content.106
 Описание предметов = content.16
 
-content.16.14663=
+content.16.22019=
