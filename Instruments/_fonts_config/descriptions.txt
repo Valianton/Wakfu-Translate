@@ -1,25 +1,134 @@
-﻿Tahoma - [Шрифт описания предметов (желтый цвет в окне)]
-marialn-plain-14
+﻿{
+	fonts: {
+		'marialn-plain-14': {
+			font: 'Verdana'
+			desc: 'Шрифт описания предметов, скиллов (желтый текст в окне)'
+		},
+		'marialn-boldbordered-14': {
+			font: ['Acrobat Bold', 'Verdana'],
+			desc: 'Шрифт сообщений в чате',
+			conf: 'marialn-boldbordered-14.bmfc'
+		},
+		'marialn-boldbordered-16': {
+			font: ['Acrobat Bold', 'Verdana'],
+			desc: 'Шрифт сообщений в чате',
+			conf: 'marialn-boldbordered-14.bmfc'
+		},
+		'marialn-boldbordered-18': {
+			font: ['Acrobat Bold', 'Verdana'],
+			desc: 'Шрифт сообщений в чате',
+			conf: 'marialn-boldbordered-18.bmfc'
+		},
+		'wci-bold-9': {
+			font: 'Verdana',
+			fontSize: '10px'
+			desc: 'Шрифт текста в полях ввода (чат, фильтр)'
+			conf: 'wci-bold-9.bmfc'
+		},
+		'wci-plain-10': {
+			font: 'Verdana',
+			font: '13px'
+			desc: [
+				'Текста при загрузке игры',
+				'Описание серверов',
+				'Системные сообщения',
+				'Окно настроек игры',
+				'Всплывающие подсказки'
+			],
+			conf: 'wci-plain-10.bmfc'
+		},
+		'wci-plain-11': {
+			font: 'Roboto',
+			fontSize: '16px'
+			desc: 'Шрифт текста в описании скиллов',
+			conf: 'wci-plain-11.bmfc'
+		},
+		'wci-bold-14': {
+			font: 'Verdana',
+			desc: [
+				'Текст NPC',
+				'Текст игрока (balloon) ',
+			],
+			conf: 'wci-bold-14.bmfc'
+		},
+		'lucidacally-bold-14': {
+			font: 'Kurale',
+			fontSize: '22px'
+			desc: 'Содержание книжек, описание историй и т.д.'
+		},
+		'wci-bordered-10': {
+			font: 'Verdana',
+			desc: 'Счетчик количества предметов в окне инвентаря'
+		},
+		'wci-bordered-11': {
+			font: 'Verdana',
+			desc: 'Счетчик количества предметов в окне инвентаря'
+		},
+		'coprgtl-bold-10': {
+			font: 'Verdana',
+			fontSize: '13px',
+			desc: [
+				'Уровень помощников',
+				'Описание помощников',
+				'Заголовок раздела заданий (Q)'
+				'Таблица подземелий (D)'
+			],
+			conf: 'coprgtl-bold-10.bmfc'
+		},
+		'coprgtl-bold-12 - 25': {
+			font: 'Verdana',
+			desc: [
+				'Заголовки модальных окон',
+				'Номер страницы (J)'
+				'Дневник 1 и 3 стр.(Shift + P)',
+				'Страница задание - заголовок'
+				'Shift + R'
+			],
+			conf: 'coprgtl-bold-12.bmfc'
+		},
+		'': {
+			font: 'Verdana',
+			desc: [
+			],
+			conf: '*.bmfc'
+		},
+		'coprgtl-boldbordered-10': {
+			font: 'Verdana',
+			desc: [
+				'Экосистема: число в слайдере'
+			],
+			conf: 'coprgtl-boldbordered-10.bmfc'
+		},
+		'coprgtl-boldbordered-14-20': {
+			font: 'AkrobatExtraBold',
+			fontSize: [18, 22]
+			desc: [
+				'Название областей'
+			],
+			conf: 'coprgtl-boldbordered-14.bmfc'
+		},
+		'coprgtl-plain-10': {
+			font: 'Roboto',
+			fontSize: '12px'
+			desc: [
+				'Паспорт NPC в областях (пример: значение в поле место рождения)'
+			],
+			conf: 'coprgtl-plain-10.bmfc'
+		},
+		'coprgtl-plain-12(14,20,25,28,34)': {
+			font: 'Roboto',
+			fontSize: ''
+			desc: [
+				''
+			],
+			conf: 'coprgtl-plain-12.bmfc'
+		}
+	}
+}
 
-Acrobat Bold - [Шрифт сообщений в чате]
-marialn-boldbordered-14
-marialn-boldbordered-16
-marialn-boldbordered-18
-
-Verdana - [Шрифт текста в полях ввода]
-wci-bold-9
-
-Verdana - [Шрифт текста при загрузке игры и описание серверов]
-wci-plain-10
-
-Verdana - [Шрифт текста NPC, чат в baloones]
-wci-bold-14 - Текст NPC
-
-Verdana - [Счетчик количества предметов в окне инвентаря]
-wci-bordered-10
-wci-bordered-11
 
 Arial - [Шрифт, видимый в основном на вне интерфейса, с рамкой]
+
 wci-boldbordered-10 - [Текст в описании задания, который виднеется на экране слева]
 -//--//--//-
 wci-boldbordered- 30
@@ -30,5 +139,3 @@ coprgtl-boldbordered-20 - [Название местности и описани
 coprgtl-bold-16 - [Заголовки модальных окон]
 coprgtl-bold-14 - [Ник персонажа в окне выбора персонажей]
 
-Kurale (22px)
-lucidacally-bold-14 - [Содержание книжек, описание историй и т.д.]
