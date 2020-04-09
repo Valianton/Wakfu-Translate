@@ -1,4 +1,4 @@
-﻿{
+{
 	fonts: {
 		'marialn-plain-14': {
 			font: 'Verdana'
@@ -120,6 +120,14 @@
 			fontSize: ''
 			desc: [
 				''
+			],
+			conf: 'coprgtl-plain-12.bmfc'
+		},
+		'heart-boldbordered-16': {
+			font: 'Roboto',
+			fontSize: ''
+			desc: [
+				'Заголовок при выборе персонажа'
 			],
 			conf: 'coprgtl-plain-12.bmfc'
 		}

@@ -58,6 +58,25 @@ Ice Floe = Ледяное Поле
 Boowolf Clearing = Прогалина Буволков
 Deforested Forest = Вырубленный Лес
 Web-Entangled Hill = Спутанный Холм
+Quick Jungle = Шустрые Джунгли
+Garbage Peak = Мусорный Пик
+Monastery Dome = Свод Монастыря
+Mystic Moe's = Мистический Мо
+Floating Forest = Плавающий Лес
+Jellith Dimension = Измерение Желлит
+Tainela = Тайнела
+Oiram's Passage = Проход Оирама
+Fishermen's Hamlet = Рыбацкая Деревушка
+Dor'Mor Cave = Пещера Дор'Мора
+Wagnar's Castle = Замок Вагнара
+Schnek Cave = Пещера Шнека
+Temple of Scriptures = Храм Священного Писания
+Shustuft Crust = Разлом Шустуфт
+Ancestral Passageway = Проход Предков
+Huppermage School = Школа Хуппермагии
+Pandissident Village = Поселение Пандиссидентов
+Charred Forest = Обугленный Лес
+
 
 ------------------------
 -= Семейства Монстров =-

@@ -1,2 +1,2 @@
-Powershell.exe -executionpolicy remotesigned -File  rus1.ps1
+Powershell.exe -executionpolicy remotesigned -File  rus.ps1
 pause
