@@ -142,6 +142,7 @@ Jenry Hones, Jr. = Генри Хонс Младший
 Jang Offett = Янг Оффетт
 Croesus Scruge = Крезус Скрудж
 Gnat - Meridia of Shells = Гнат - Меридия Оболочек
+Etnop - Meridia of Eggs = Этноп - Меридия Яиц
 Laetitia Jocasta Nuk = Летиция Юкаста Нук
 Janine Soleau = Жанин Солю
 Belva Deer = Олень Белва
