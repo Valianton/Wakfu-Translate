@@ -76,6 +76,10 @@ Ancestral Passageway = Проход Предков
 Huppermage School = Школа Хуппермагии
 Pandissident Village = Поселение Пандиссидентов
 Charred Forest = Обугленный Лес
+Dorsal Forest = Спинной Лес
+Caudal Shore = Хвостовой Берег
+Glacial Wing = Ледниковое Крыло
+Arid Wing = Бесплодное Крыло
 
 
 ------------------------
@@ -105,6 +109,8 @@ Badgeroxes = Барсуксы
 Ethernals = Эфирналы
 Wodents = Гвызуны
 Mushds = Шламсы (отходы чел.деятельности при раскопках)
+Sunsloth = Санцелот
+Stompion = Топотун
 -----------------
 -= Остальное =-
 -----------------
@@ -327,6 +333,7 @@ Lugiani = Луджиани
 Viscus = Вискус
 Sprunga Leek = Спрунга Лик
 Dan Sominik Kraust = Дан Соминик Крауст
+Septangel = Септангель (Мать Пандоры)
 
 
 -----------------
@@ -338,7 +345,7 @@ Maysial = Майсиаль
 Aperirel = Аперирель
 Martalo = Мартало
 Frauguctor = Фраугуктор
-Septangel = Септангель
+Septangel = Септангель (Мать Пандоры)
 Octolliard = Октоллиард
 Novamaire = Новамаир
 Descendre = Десцендр

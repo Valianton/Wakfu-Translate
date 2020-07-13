@@ -63,6 +63,9 @@ Defeat the monsters
 Defeat all the monsters
 Победить всех монстров
 
+It seems Osamosa monsters are invading the area.\nPush back enough of them to have a chance at fighting\ntheir best representatives.
+Кажется, монстры Осамоса вторгаются в этот район.\nОттолкните их назад на достаточное расстояние, чтобы получить возможность сразиться с их лучшими представителями.
+
 Defeat all the invasive monsters
 Победить всех вторгшихся монстров
 
@@ -109,7 +112,10 @@ Collaborative:
 Совместно:
 
 Complete the achievement 
-Выполнить достижение
+Получить достижение
+
+Osamosa Challenge
+Испытание Осамоса
 
 The Moogrrs have been getting out of control recently, and the ground is covered with their excrement. It appears that if you don't do it yourself, no one will clean up these dung heaps. Interact with them the number of times shown to collect the reward.
 В последнее время Мугрры выходят из-под контроля, и земля покрыта их экскрементами. Похоже, что если вы не сделаете это сами, никто не уберет эти кучи навоза. Взаимодействуйте с ними указанное количество раз, чтобы получить награду.
@@ -207,3 +213,12 @@ These powders are produced by recycling items. They are used to create new items
 
 You can use this rune to improve an item's characteristics.
 Вы можете использовать эту руну, чтобы улучшить характеристики предмета.
+
+A set number of fragments reappears at regular intervals.\nThese fragments increase the power of all the participants in fights against the Osamosa monsters.\n\nWaves of Osamosa monsters appear at regular intervals.\nWhen enough monsters have been killed, a rift appears.\n\nWhen a rift is activated, it causes a horde of dominant monsters to appear.\nIt takes several players to activate a rift.\n\nWhen a sufficient number of hordes has been reached, the Osamosa Archmonsters appear.\nAt this stage, fragments no longer appear.\n\nWhen all the Archmonsters have been defeated, the mission is complete.
+Заданное количество фрагментов появляется через равные промежутки времени.\nЭти фрагменты увеличивают силу всех участников сражений с монстрами Осамоса.\n\nВолны монстров Осамоса появляются через равные промежутки времени.\nЕсли достаточно монстров было убито, появляется разлом.\n\nПри активировании разлома появляется орда доминирующих монстров.\nДля активации разлома требуется несколько игроков.\n\nПосле преодоления достаточного количества орд появляются Архимонстры Осамоса.\nНа этом этапе фрагменты больше не появляются.\n\nКогда все Архимонстры будут побеждены, миссия будет завершена.
+
+The area's full of monsters. Eliminate the indicated number of them to collect the reward
+Область полна монстров. Устраните указанное количество из них, чтобы получить награду.
+
+The area's full of monsters. Interact with them the indicated number of times to collect the reward.
+Область полна монстров. Взаимодействуйте с ними указанное количество раз, чтобы получить награду.
