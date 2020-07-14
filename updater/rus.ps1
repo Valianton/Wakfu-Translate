@@ -1,3 +1,4 @@
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 $i18n = "texts_en.properties"
 $fonts = "fonts"
 $theme = "theme"
