@@ -80,6 +80,7 @@ Dorsal Forest = Спинной Лес
 Caudal Shore = Хвостовой Берег
 Glacial Wing = Ледниковое Крыло
 Arid Wing = Бесплодное Крыло
+Bearbarian Area = Область Медвеварваров
 
 
 ------------------------
