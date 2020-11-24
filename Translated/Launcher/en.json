@@ -1,0 +1,563 @@
+{
+  "bugReport": {
+    "title": "Assistance",
+    "faq": "FAQ",
+    "faqExplain": "For any questions about how the launcher works or how to use it, check the FAQ here:",
+    "assistance": "Assistance",
+    "assistanceExplain": "To request help or report a bug, contact support.",
+    "forum": "Forums",
+    "forumExplain": "To interact with the Ankama community, suggest changes, or give us positive feedback, check out the various forums for all our games!",
+    "emptyCache" : "Refresh the Launcher",
+    "emptyCacheExplain" : "If you encounter a problem, you can clear the Launcher's cache and check that the version of your Launcher is the same as the latest changelog.",
+    "logs": "Logs",
+    "logsExplain": "In order to better assist you, you may be asked to provide your logs. To do this, please copy the \"application.log\" file. Warning: For your security, only send this file via Ankama Support.",
+
+    "button": {
+      "faq": "Launcher FAQ",
+      "assistance": "Technical support",
+      "emptyCache" : "Refresh the Launcher",
+      "logs": "Open the log folder"
+    }
+  },
+  "chat": {
+    "choosePseudo": "Choose a nickname to access the chat",
+    "chat": "Chat",
+    "isOffline": "Chat offline",
+    "isReconnecting": "Chat offline, now reconnecting…",
+    "toReconnect": "To log back in, ",
+    "clickHere": "click here",
+    "noNotification": "Your status is now set to \"busy\"; you won't receive notifications.",
+    "channel": {
+      "countMembers": "{count} people",
+      "newMessageFromFriend": "New message from {friend}",
+      "replyPlaceholder": "Write your reply here",
+      "longMessage": "Your message can't be more than 2,000 characters.",
+      "newMessage": "New message",
+      "newMessages": "New messages",
+      "writeAMessage": "Write a message",
+      "noChannel": "No conversations",
+      "noMessage": "Not feeling very inspired? Just say hi.",
+      "startChannel": "Start a conversation with your friends in the {friendTab} tab by clicking on a friend.",
+      "startConversation": "Start a conversion",
+      "sendAMessage": "Send a message"
+    },
+    "friendlist": {
+      "count-s": "{count} friend",
+      "count-p": "{count} friends",
+      "onlineFriends": "Online friends",
+      "noFriend": "No friends",
+      "deleteFriendFromList": "Delete this friend",
+      "confirmDelete": "Are you sure you want to delete this friend?",
+      "confirmDeleteGroup": "Are you sure you want to delete this group?",
+      "changeGroup": "Switch to a different group",
+      "addToGroup": "Add someone to a group",
+      "removeFromGroup": "Remove from group",
+      "moveToGroup": "Move to this group",
+      "newGroup": "New group",
+      "newConnection": "New login",
+      "newFriendOnline": "{pseudo} just logged in",
+      "addNote": "Add a note",
+      "editNote": "Edit note",
+      "cancel": "Cancel",
+      "searchFriendOrGroup": "Search for a friend or group",
+      "searchFriendOrConversation": "Search for a friend or conversation",
+      "isInLauncher": "Is in the Launcher",
+      "refreshError": "Error while refreshing",
+      "toRefresh": "To refresh your friend list",
+      "selectGroup": "Choose a group",
+      "deleteGroup": "Delete group",
+      "editName": "Rename",
+      "editGroupNameError": "Could not rename the group; please try again later.",
+      "editFriendGroupNameError": "Could not modify {pseudo}'s group; please try again later."
+    },
+    "invites": {
+      "inviteFriend": "Invite a friend",
+      "inviteFriends": "Invite your friends to join you in the chat in the {inviteTab} tab.",
+      "sentInvites": "Invites sent",
+      "receivedInvites": "Invites received",
+      "countPendingInvites": "pending invite(s)",
+      "blockedContacts": "Blocked people",
+      "countBlockedContacts": "blocked people",
+      "receiveInvite": "{pseudo} wants to be your friend",
+      "friendRequest": "wants to be your friend!",
+      "noResult": "No results found for {pseudo}.",
+      "inviteAlreadySentTo": "An invite was already sent to {pseudo}.",
+      "inviteInPendingList": "This friend is already on your list of received invites.",
+      "isAlreadyFriend": "{pseudo} is already your friend.",
+      "cannotSelfInvite": "You can't invite yourself.",
+      "newFriendInvite": "New friend invite",
+      "hasBeenAccepted": "accepted your invite!",
+      "cannotSendInvite": "You cannot send an invite to {pseudo}.",
+      "inviteInBlockedList": "You cannot invite a blocked contact."
+    },
+    "status": {
+      "online": "Online",
+      "offline": "Offline",
+      "away": "Away",
+      "busy": "Busy"
+    },
+    "tabs": {
+      "conversations": "Conversations",
+      "friends": "Friends",
+      "invites": "Invites"
+    },
+    "terms": {
+      "start": "By using the chat service, you agree to consult the rules of conduct and any information provided in the ",
+      "link": "Terms of Use",
+      "end": "."
+    }
+  },
+  "disk": {
+    "error": {
+      "unableToGetDriveInfo": "Could not retrieve disk information",
+      "invalidPath": "Invalid path"
+    }
+  },
+  "haapi": {
+    "error": {
+      "generic": "An error occurred during authentication",
+      "ban": "Banned account",
+      "blacklist": "The IP in use is blacklisted",
+      "locked": "This account is locked",
+      "deleted": "This account has been deleted",
+      "resetAnkama": "This account needs to be reset in Account Management",
+      "otpTimeFailed": "You must unlock your account using the Ankama Authenticator",
+      "securityCard": "This account requires a security card",
+      "bruteForce": "The account has been temporarily blocked; please try again later.",
+      "failed": "Invalid login details",
+      "partner": "The account is not authorized because of a partner's limit",
+      "invalidEmail": "You must validate your email address in Account Management",
+      "notFound": "Account not found",
+      "linkedAccount": "Account already linked",
+      "invalidAccount": "Invalid account",
+      "shieldedAccount": "Impossible to link an Ankama account with the shield activated",
+      "notCertifiedAccount": "Impossible to link a non-certified Ankama account",
+      "notReachable": "The server cannot be accessed; please check your Internet connection.",
+      "timeout": "The server is taking a while to respond; please check your Internet connection or try again later.",
+      "accountAlreadyRegistered": "This account has already been saved",
+      "sameEmail": "The email address entered is the same as the previous one",
+      "alreadyValidate" : "Your email address is already confirmed"
+    }
+  },
+  "header": {
+    "menu": {
+      "games": "Games",
+      "news": "News",
+      "chat": "Chat",
+      "video": "video",
+      "components": "Components"
+    }
+  },
+  "invalidMail": {
+    "title": "Email confirmation",
+    "message": "For security reasons, you must confirm your email address before going any further.",
+    "continue": "Finish Registration",
+    "resend": "Send another confirmation email",
+    "enterNewMail": "Enter an email address",
+    "newMail": "New email address:",
+    "mail": "email address",
+    "validateMail": "Confirm",
+    "validationMailSent": "Another confirmation email has been sent",
+    "mailChanged": "A confirmation email has been sent to your new address",
+    "mailSent" : "Sending…",
+    "refresh": "Refresh my information",
+    "mailErrored" : "Invalid email address",
+    "cancel": "cancel"
+  },
+  "loader": {
+    "done": "Done",
+    "loading": "Loading…",
+    "offline": "No internet connection detected! "
+  },
+  "logbox": {
+    "offline": "Offline",
+    "account": "My Account",
+    "help": "Support",
+    "logout": "Log Out",
+    "choosePseudoTitle": "Choose Your Nickname",
+    "choosePseudo": "Choose a nickname",
+    "pseudoCompte": "Account Nickname",
+    "abonne": "Subscribed until",
+    "choosePseudoLogin": "Choose a nickname for the account {login}",
+    "info": "3 to 29 characters: a-z, A-Z, -.",
+    "nonAbonne": "Non-Subscriber",
+    "ancienAbonne": "Former Subscriber",
+    "freeToPlay": "Free to play",
+    "jusquau": "until ",
+    "options": "Settings",
+    "settings": "Launcher Settings",
+    "quit": "Exit",
+    "connected": "In Game"
+  },
+  "login": {
+    "connectionTitle": "Log In",
+    "connectionOr": "Or",
+    "login": "Account Name",
+    "password": "Password",
+    "forgottenPassword": "Forgot your password?",
+    "stayLoggedIn": "Stay connected",
+    "forcedStayLoggedIn": "Secondary accounts logout when your main account logout.",
+    "rememberMe": "Remember me",
+    "signIn": "Log In",
+    "cannotSignIn": "Can't log in?",
+    "signUp": "Create an Ankama account",
+    "support": "Visit Support",
+    "accountLinking": "Linking accounts",
+    "alreadyHaveAnkamaAccount": "Do you already have an Ankama account?",
+    "yes": "Yes",
+    "no": "No",
+    "facebook": "Log in with Facebook",
+    "facebookLink": "Link my account",
+    "facebookGhost": "Continue with Facebook",
+    "steamGhost": "Continue with Steam",
+    "facebookCancel": "Cancel",
+    "validateEmail": "Confirm email",
+    "acceptCgu": "By clicking \"Continue\", I confirm that I have read, understood and accepted",
+    "subscribeNewsletter": "I want to receive the ANKAMA newsletter.",
+    "cgu": "the Terms of Use",
+    "policy": "the Privacy Policy",
+    "help": "<h4>Remember Me</h4>Your account <b>{login}</b> will be saved, but you will need to enter your password when you start a session.<br><br><h4>Stay Connected</h4>Your account details will be saved and you will be automatically logged in when you start a session.",
+    "certifAccount": "Certify my account"
+  },
+  "news": {
+    "showOnline": "View online",
+    "all": "All",
+    "actualites": "News",
+    "similar": "related"
+  },
+  "notification": {
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "accept": "Accept",
+    "reject": "Decline",
+    "ignore": "Block",
+    "unlock": "Unblock",
+    "editName": "Rename",
+    "delete": "Remove",
+    "validate": "Confirm",
+    "group": "Group",
+    "error": "An error has occurred",
+    "information": "information"
+  },
+  "rgpd": {
+    "pending": {
+      "title": "Registration pending",
+      "message": "Your registration is pending confirmation by your parent or legal guardian. The games are temporarily unavailable to you. You may re-send the email to one of your parents or legal guardians",
+      "resend": "Re-send the email"
+    },
+    "refused": {
+      "title": "Registration refused",
+      "message": "The games are not available to you. Your parents or legal guardians refused your registration.",
+      "close": "Close"
+    }
+  },
+  "release": {
+    "error": {
+      "cannotCreateTmpFolder": "A temporary folder could not be created. {error}",
+      "cannotGetInstallInformation": "Installation information could not be downloaded. Check your Internet connection or network configuration (firewall, proxy, etc.).",
+      "cannotInstallInANonEmptyFolder": "The selected folder is not empty",
+      "cannotInstallReadWritePermissions": "You do not have read and write permission for this folder",
+      "cannotInstallNotEnoughSpace": "Not enough free space",
+      "cannotCreateDestinationFolder": "Unable to create the folder",
+      "cannotInstallInFolderOfAnotherGame": "Could not install the game in a different game folder",
+      "cannotInstallInNonExistingFolder": "The selected folder doesn't exist",
+      "cannotInstallLocationIsNotAFolder": "The selected path isn't a folder",
+      "cannotMoveNotInstalled": "The game is not yet installed; wait before moving it",
+      "cannotMoveWhileMoving": "The game is already being moved",
+      "cannotMoveSameFolder": "The target folder is the same as the current folder",
+      "cannotMoveReadWritePermissions": "You do not have read and write permission for this folder",
+      "cannotMoveWhileUpdating": "The game is updating",
+      "cannotMoveWhileRunning": "The game has started",
+      "cannotMoveNotEnoughSpace": "Not enough free space",
+      "cannotUpdate": "An error occurred while updating the game; please try again.",
+      "cannotUpdateNoLocation": "Destination not specified",
+      "cannotUpdateOffline": "Your computer is not connected to Internet",
+      "cannotUpdateGameIsRunning": "The game is already running",
+      "cannotUpdateAlreadyRunning": "An update is in progress",
+      "cannotUpdateReleaseIsMoving": "The game is being moved",
+      "cannotRepair": "An error occurred while repairing the game; please try again.",
+      "cannotStartNotInstalled": "The game is not installed",
+      "cannotStartWhileUpdating": "An update is in progress",
+      "cannotStartUpdateAvailable": "An update is available",
+      "cannotStartMaxInstancesReached": "The maximum number of games is already running",
+      "cannotStartReleaseIsMoving": "The game is being moved",
+      "cannotUpdateCytrusVersionNotHandled": "The deployed version of the game is not compatible with your version of the Ankama Launcher"
+    }
+  },
+  "releaseActionBar": {
+    "update": "Update ({version})",
+    "play": "Play",
+    "cancel": "Cancel",
+    "resume" : "Restart",
+    "launch": "Launch",
+    "launching": "Launching…",
+    "playing": "In progress…",
+    "downloadPending": "Download pending",
+    "downloadPaused": "Download paused",
+    "launchDownload": "Begin Download",
+    "yes": "Yes",
+    "no": "No",
+    "install": "Install {game}",
+    "repair": "Repair",
+    "confirmCancel": "Are you sure you want to cancel the installation?",
+    "resumeInstall": "Resume Installation",
+    "isStopping": "Shutting down…",
+    "runningInstances": "{runningInstancesCount} instances running…",
+    "filesDownloaded": "Downloading: {remainingSize}",
+    "remainingFiles": "Files remaining: {remainingFiles}",
+    "remainingTime": "Estimated time left: {time}",
+
+    "installWaiting": "Installation pending",
+    "installPaused": "Are you sure you want to cancel the installation?",
+
+    "fetching": "Connecting with the Krosmoz",
+    "finilizing": "Getting approval from the gods",
+    "repairing": "Tracking anomalies",
+    "downloading": "Downloading universes",
+    "untarPacks": "Unboxing heroes",
+    "quitBeforeInstall": "You must exit the game to update it."
+  },
+  "releaseInstall": {
+    "install": "Installation",
+    "chooseInstallFolder": "Please select the folder where you want to install the game {gamename}",
+    "selectFolder": "Use this folder",
+    "space": {
+      "required": "Required {space}",
+      "free": "Available {space}",
+      "freeError": "Could not calculate available space."
+    },
+    "cancelButton": "Cancel",
+    "installButton": "Install",
+    "browseFolder": "Browse folders"
+  },
+  "releaseSettings": {
+    "title": "Game Options",
+    "general": {
+      "title": "General",
+      "autoUpgrade": "Automatic updates",
+      "autoUpgradeExplain": "Enable automatic updates for the game.",
+      "repairTitle": "Repair",
+      "repairExplanation": "If the game does not function properly, running Repair can resolve issues by verifying the integrity of the game folders on your computer.",
+      "repair": "Begin repair",
+      "uninstallTitle": "Uninstall",
+      "uninstallExplanation": "Delete the install folder and game shortcuts.",
+      "uninstall": "Uninstall {fullGameName}"
+    },
+    "accounts": {
+      "title": "Multi-Accounting",
+      "addAccount": "Add an account",
+      "addAccountExplain": "Each account you link here will be added to your list of playable accounts below. When you log out, all of the accounts will go offline.",
+      "accountListTitle": "Manage your accounts",
+      "accountListExplain": "You can activate or deactivate each account; only activated accounts will be launched with the Play button or the command Ctrl + (number).",
+      "or": "Or",
+      "quickStart": "Quick Start",
+      "quickStartExplain": "Here you can launch the game right away using your preferences as shown above.",
+      "configurePlayButton": "Configure the PLAY Button",
+      "configurePlayButtonExplain": "You can change what the PLAY button does on the game page",
+      "queueMode": "\"One by One\" Mode (default)",
+      "queueModeExplain1": "The PLAY button launches instances of the game one by one with your",
+      "queueModeExplain2": "active accounts",
+      "queueModeExplain3": ", in the order shown in your list.",
+      "allMode": "\"All Accounts\" Mode",
+      "allModeExplain1": "The PLAY button simultaneously launches as many instances of the game as there are",
+      "allModeExplain2": "active accounts",
+      "allModeExplain3": "in your list.",
+      "offlineMode": "\"Offline\" Mode",
+      "offlineModeExplain": "The PLAY button launches the game without logging in."
+    },
+    "releases": {
+      "mainVersion": "Main version"
+    },
+    "folder": {
+      "title": "Game Folder",
+      "openGameFolder": "Open the game folder",
+      "gameFolder": "Game folder",
+      "gameFolderExplain": "Takes you to the game folder",
+      "openLogsFolder": "Open the log folder",
+      "logsFolder": "Log folder",
+      "logsFolderExplain": "Takes you to the log folder. If requested by Support, and if there are any log files, you can attach them to your bug reports",
+      "move": "Change Folder",
+      "moveExplain": "Game install folder",
+      "moveButton": "Move the game",
+      "space": {
+        "required": "Required space:",
+        "free": "Available space:",
+        "sameDisk": "(same disk)"
+      },
+      "moving": "Moving…",
+      "success": "Move successfully completed"
+    },
+    "license": {
+      "title": "Licenses"
+    }
+  },
+  "releaseUninstall": {
+    "uninstalling": "Uninstall",
+    "sentence": "You are about to uninstall the game {releaseName}. Are you sure you want to continue?",
+    "cancelButton": "Cancel",
+    "uninstallButton": "Uninstall",
+    "deleteConfirmation": "The game was successfully uninstalled"
+  },
+  "releaseView": {
+    "changelog": "Changelog",
+    "shop": "Store",
+    "forum": "Forums",
+    "options": "Options",
+    "cancel": "Cancel",
+    "actualite": "News",
+    "knowMore": "Learn more",
+    "serverOff": "The game server is currently unavailable",
+    "settings": "Game Options",
+    "version": "Game Version",
+    "installedVersion": "Installed version",
+    "availableVersion": "Available version"
+  },
+  "systray": {
+    "open": "Open {appName}",
+    "parameters": "Settings…",
+    "checkUpdates": "Check for updates",
+    "exit": "Close {appName}",
+    "about": "About {appName}",
+    "preferences": "Preferences…",
+    "hide": "Hide {appName}",
+    "hideOthers": "Hide others",
+    "unhide": "Show all",
+    "edit": "Edit",
+    "undo": "Cancel",
+    "redo": "Restore",
+    "cut": "Cut",
+    "copy": "Copy",
+    "paste": "Paste",
+    "delete": "Remove",
+    "selectAll": "Select all",
+    "view": "View",
+    "reload": "Refresh",
+    "toggleFullScreen": "Enable full screen mode",
+    "window": "Window",
+    "minimize": "Minimize",
+    "zoom": "Zoom in",
+    "close": "Close the window",
+    "help": "Help"
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "accept": "Accept",
+    "reject": "Refuse"
+  },
+  "video": {
+    "menu": {
+      "home": "Home",
+      "downloads": "Downloads",
+      "latests": "Recent Additions",
+      "popular": "Latest Achievement",
+      "history": "History",
+      "watchLater": "Watch later",
+      "favorites": "Bookmarks"
+    },
+    "player": {
+      "audioTracks": "Languages",
+      "closedCaptions": "Subtitles",
+      "quality": "Quality",
+      "fullscreen": "Full screen",
+      "exitFullscreen": "Leave full screen mode",
+      "settings": "Settings"
+    },
+    "error": {
+      "title": "Oops, an error has occurred.",
+      "refresh": "Refresh"
+    },
+    "home": {
+      "watch": "Watch",
+      "history": "History"
+    },
+    "details": {
+      "season" : "Season",
+      "seasons" : "Seasons",
+      "views": "views",
+      "playing": "Playing…",
+      "autoPlay": "Auto play",
+      "synopsisLabel": "Synopsis: {synopsis}",
+      "watchEpisode": "Watch episode {episode}"
+    },
+    "subscribePopin": {
+      "title": "Reserved for subscribers",
+      "content": "You must have a DOFUS subscription or an active WAKFU Booster to watch all the videos.",
+      "dofusButton": "Check out the DOFUS shop",
+      "wakfuButton": "Check out the WAKFU shop"
+    }
+  },
+  "zaapAutoUpdate": {
+    "forceUpdate": "Please exit the games to make sure the update installs properly.",
+    "updateRequired": "Update required",
+    "restartIn": "Restarting in {countdown} seconds…",
+    "restarting": "Restarting…",
+    "delayUpdate": "Later",
+    "restartNow": "Update",
+    "updating": "Updating…",
+    "willRestartAutomatically": "Ankama Launcher will restart automatically to install the update."
+  },
+  "zaapSettings": {
+    "title": "Settings",
+    "general": {
+      "title": "General",
+      "language": "Language",
+      "languageExplain": "The language used in the Launcher's interface.",
+      "launchAtStartup": "Execute when the computer starts up",
+      "launchAtStartupExplain": "Launch the Ankama Launcher when the computer starts up.",
+      "minimizeAtReleaseLaunch": "Minimize to the system tray when a game starts",
+      "minimizeAtReleaseLaunchExplain": "Automatically minimize the Ankama Launcher to the system tray when a game starts.",
+      "trayAtClose": "Minimize to the system tray instead of close",
+      "trayAtCloseExplain": "Minimize the Ankama Launcher to the system tray when the window closes.",
+      "trayAtMinimize" : "Minimize the Launcher to the system tray",
+      "trayAtMinimizeExplain": "Minimize the Ankama Launcher to the system tray instead of the taskbar.",
+      "badConnection": "Download at low bandwidth",
+      "badConnectionExplain": "We recommend selecting this option if your internet connection is slow.",
+      "preRelease": "Pre-Release Mode",
+      "preReleaseExplain": "Provides you with early access versions of the games and Launcher visuals",
+      "steamVersion" : "Launch the Steam version",
+      "steamVersionExplain" : "Enables the Launcher's Steam mode, early access to the games, chat, and other features.",
+      "steamGame": "Game launched by Steam",
+      "steamGameExplain": "Simulates the game launched by Steam, which will hide the Launcher's other games."
+    },
+    "about": {
+      "title": "About",
+      "version": "Launcher Version"
+    },
+    "chat": {
+      "title": "Chat",
+      "refuseFriendInvite": "Refuse friend invites",
+      "refuseFriendInviteExplain": "Refuse friend invites.",
+      "notifications": "Notifications",
+      "chatNotification": "Enable all chat notifications",
+      "chatNotificationExplain": "Enables all of the following notifications.",
+      "chatMessageNotification": "- Get a notification when you receive a message.",
+      "chatInviteNotification": "- Get a notification when you receive a friend invite.",
+      "chatFriendConnectionNotification": "- Get a notification when a friend logs in."
+    },
+    "terms": {
+      "title": "Legal"
+    },
+    "display": {
+      "title": "Display",
+      "interfaceSize": "Interface size",
+      "interfaceSizeExplain": "Changes the size of all components of the Launcher: Buttons, fonts…",
+      "disableAnimation": "Turn off animations",
+      "disableAnimationExplain": "We recommend turning off all interface animations in the Launcher on slower systems.",
+      "disableVideo" : "Turn off videos on game pages",
+      "disableVideoExplain": "Videos will not be downloaded, being replaced by static images in the carousel display instead, which reduces the amount of data downloaded.",
+      "small": "SD (small)",
+      "medium": "HD (medium)",
+      "large": "4K (large)",
+      "image": {
+        "imageQuality": "Image Quality",
+        "imageQualityExplain": "Changes the quality of images in the carousel display, announcements, etc.",
+        "low": "Low",
+        "medium": "Medium",
+        "high": "High"
+      }
+    }
+  },
+  "useractivities": {
+    "onServer": "on {server}"
+  }
+}
