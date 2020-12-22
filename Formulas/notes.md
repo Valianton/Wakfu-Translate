@@ -35,12 +35,13 @@ Increases gains = Увеличивает прирост
 is released = высвобождение
 stackable = суммируется
 smithmagic = кузнемагия
-Indirect Damage = Ненаправленный Урон
+Indirect Damage = Побочный Урон
 Hours Cell = Клетка Часов (Часовая Клетка)
 Stasified = Стазификация
 Round'ope = Круглокрытый
 penetrates Armor = пробивает Броню
-Finisher - Сокрушительный Удар
+Finisher = Сокрушительный Удар
+chronomagic = хрономагия
 
 RegEx
 ^content.*=[^а-яА-Яё]*?($)\n

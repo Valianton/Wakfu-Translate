@@ -25,6 +25,7 @@ The area's full of monsters. Interact with as many of them as possible to collec
 
 The area's full of monsters. Eliminate the number of the them shown to collect the reward.
 The area's full of monsters. Eliminate the number of them shown to collect the reward.
+Eliminate the indicated number of them to collect the reward.
 Эта область полна монстров. Ликвидируйте указанное количество, чтобы получить награду.
 
 The area's full of monsters. Eliminate them all to collect the reward.
@@ -120,8 +121,8 @@ Osamosa Challenge
 The Moogrrs have been getting out of control recently, and the ground is covered with their excrement. It appears that if you don't do it yourself, no one will clean up these dung heaps. Interact with them the number of times shown to collect the reward.
 В последнее время Мугрры выходят из-под контроля, и земля покрыта их экскрементами. Похоже, что если вы не сделаете это сами, никто не уберет эти кучи навоза. Взаимодействуйте с ними указанное количество раз, чтобы получить награду.
 
-The Moogrrs have been getting out of control recently, and the ground is covered with their excrement. It appears that if you don't do it yourself, no one will clean up these dung heaps. Interact with as many of them as possible to collect the best reward.
-В последнее время Мугрры выходят из-под контроля, и земля покрыта их экскрементами. Похоже, что если вы не сделаете это сами, никто не уберет эти кучи навоза. Взаимодействуйте с ними столько раз, сколько это возможно, чтобы получить лучшую награду.
+Interact with as many of them as possible to collect the best reward.
+Взаимодействуйте с ними столько раз, сколько это возможно, чтобы получить лучшую награду.
 
 The Moogrrs have been getting out of control recently, and the ground is covered with their excrement. It appears that if you don't do it yourself, no one will clean up these dung heaps. Interact with each of them to collect the reward.
 В последнее время Мугрры выходят из-под контроля, и земля покрыта их экскрементами. Похоже, что если вы не сделаете это сами, никто не уберет эти кучи навоза. Взаимодействуйте с каждым из них, чтобы получить награду.
@@ -222,3 +223,6 @@ The area's full of monsters. Eliminate the indicated number of them to collect t
 
 The area's full of monsters. Interact with them the indicated number of times to collect the reward.
 Область полна монстров. Взаимодействуйте с ними указанное количество раз, чтобы получить награду.
+
+A Roaring Trade
+Живая торговля
