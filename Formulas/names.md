@@ -81,6 +81,7 @@ Caudal Shore = Хвостовой Берег
 Glacial Wing = Ледниковое Крыло
 Arid Wing = Бесплодное Крыло
 Bearbarian Area = Область Медвеварваров
+Scramshell Cavern = Пещера Скрамшел
 
 
 ------------------------
@@ -335,6 +336,12 @@ Viscus = Вискус
 Sprunga Leek = Спрунга Лик
 Dan Sominik Kraust = Дан Соминик Крауст
 Septangel = Септангель (Мать Пандоры)
+Bearkneck = Беркнек
+Fisher Fiasco = Фишер Фиаско
+Jacqueline = Жаклин
+Rykke Eensy = Рикке Ээнси
+The Embashy = Эмбаши
+Juspark = Юспарка (ж)
 
 
 -----------------
