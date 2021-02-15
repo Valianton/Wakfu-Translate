@@ -13,6 +13,7 @@ New-Item -ItemType directory -Path  $pathToFonts
 
 # upload resource
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+# alias - curl
 Invoke-WebRequest https://github.com/Valianton/Wakfu-Translate/archive/master.zip -OutFile $pathToExpand\master.zip
 Expand-Archive -Path $pathToExpand\master.zip -DestinationPath $pathToExpand
 

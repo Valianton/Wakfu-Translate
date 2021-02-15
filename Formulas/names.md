@@ -82,7 +82,7 @@ Glacial Wing = Ледниковое Крыло
 Arid Wing = Бесплодное Крыло
 Bearbarian Area = Область Медвеварваров
 Scramshell Cavern = Пещера Скрамшел
-
+Nap Passage = Проход Дремы
 
 ------------------------
 -= Семейства Монстров =-
@@ -108,6 +108,7 @@ Dopples = Допплы
 Rotceres = Ротчеры
 LeChouque = Лешук
 Badgeroxes = Барсуксы
+Beardger = Бордач
 Ethernals = Эфирналы
 Wodents = Гвызуны
 Mushds = Шламсы (отходы чел.деятельности при раскопках)
@@ -341,7 +342,14 @@ Fisher Fiasco = Фишер Фиаско
 Jacqueline = Жаклин
 Rykke Eensy = Рикке Ээнси
 The Embashy = Эмбаши
-Juspark = Юспарка (ж)
+Juspark = Юспарк (ж)
+Jenny Firelance = Дженни Файерланс
+Grand'Half the Whitish = Гранд'Хальф Белесый
+Agathie Christa = Агати Криста
+Morton Julius = Мортон Юлиус
+Master Bolete = Мастер Болет
+Verna the Unfazed = Верна Невозмутимая
+
 
 
 -----------------
