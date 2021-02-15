@@ -29,6 +29,7 @@ damage received by the ally = Урон, получаемый от союзник
 suffers damage = получе
 non-reducible damage = Неизлечимый урон
 Heals received = Получаемое Исцеление
+Armor received = Получаемая Броня
 Heals perfomed = Навык лечения у цели увеличен
 mastery elements = Мастерство владения стихиями (сейчас просто Мастерство Стихий)
 Increases gains = Увеличивает прирост
@@ -95,5 +96,6 @@ Dodge = Проворство
 Предметы в Мире, относящиеся к заданиям = content.106
 Описание предметов = content.16
 content.9 = Описание заклинаний
+content.33 = Описание действий заклинаний
 
 content.16.22019=
