@@ -44,19 +44,19 @@ function Get-IniFile {
 }
 
 Function Get-GameFolder() {
-	return (Get-ItemProperty -Path $HKCU_SOFTWARE\$wakfuKey).GameFolder
+	return (Get-ItemProperty -Path $HKCU_SOFTWARE_ANKAMA\$wakfuKey).GameFolder
 }
 
 Function Get-Version() {
-	return (Get-ItemProperty -Path $HKCU_SOFTWARE\$wakfuKey).version
+	return (Get-ItemProperty -Path $HKCU_SOFTWARE_ANKAMA\$wakfuKey).version
 }
 
 Function Create-RegKey($name, $value) {
-	New-ItemProperty -Path $HKCU_SOFTWARE\$wakfuKey -Name $name -Value $value -PropertyType "String"
+	New-ItemProperty -Path $HKCU_SOFTWARE_ANKAMA\$wakfuKey -Name $name -Value $value -PropertyType "String"
 }
 
 Function Update-RegKey($name, $value) {
-	Set-ItemProperty -Path $HKCU_SOFTWARE\$wakfuKey -Name $name -Value $value
+	Set-ItemProperty -Path $HKCU_SOFTWARE_ANKAMA\$wakfuKey -Name $name -Value $value
 }
 
 Function Check-ValidPath($path) {
@@ -69,9 +69,18 @@ Function Get-Folder($initialDirectory) {
     $FolderBrowserDialog = New-Object System.Windows.Forms.FolderBrowserDialog
     $FolderBrowserDialog.RootFolder = 'MyComputer'
     if ($initialDirectory) { $FolderBrowserDialog.SelectedPath = $initialDirectory }
-    $result = $FolderBrowserDialog.ShowDialog()
-    Write-Output $result
-    return $FolderBrowserDialog.SelectedPath
+
+	if($FolderBrowserDialog.ShowDialog() -eq "OK")
+    {
+        $folder += $FolderBrowserDialog.SelectedPath
+    }
+    return $folder
+}
+Function CreateDistrib() {
+	New-Item –Path $HKCU_SOFTWARE_ANKAMA –Name $wakfuKey
+	(Create-RegKey 'GameFolder' '')
+	(Create-RegKey 'version' 0)
+	Write-Output "Создан новый дистрибутив для русификатора"
 }
 
 #app
@@ -83,17 +92,23 @@ Invoke-WebRequest https://github.com/Valianton/Wakfu-Translate/raw/master/data/i
 $iniFile = Get-IniFile "$pwd\info.ini"
 $NewVersion = $iniFile.info.version
 Remove-Item $pwd\info.ini -Force -Recurse -ErrorAction SilentlyContinue
+$ankamaKey = "AnkamaRus"
+$wakfuKey = "WakfuRussifier"
+$HKCU_SOFTWARE = "HKCU:\SOFTWARE"
+$HKCU_SOFTWARE_ANKAMA = "$HKCU_SOFTWARE\$ankamaKey"
 
-$HKCU_SOFTWARE = 'HKCU:\SOFTWARE\Ankama'
-$wakfuKey = 'WakfuRussifier'
-
-$WakfuRegObject = (Get-ChildItem $HKCU_SOFTWARE -Include $wakfuKey -Recurse)
-if (!$WakfuRegObject) {
-	New-Item –Path $HKCU_SOFTWARE –Name $wakfuKey
-	(Create-RegKey 'GameFolder' '')
-	(Create-RegKey 'version' 0)
+if (!(Get-Item -Path $HKCU_SOFTWARE_ANKAMA -ErrorAction SilentlyContinue)) {
+	New-Item –Path $HKCU_SOFTWARE –Name $ankamaKey
+	(CreateDistrib)
+	$version = "0"
 } else {
-	$version = (Get-Version)
+	$WakfuRegObject = (Get-ChildItem $HKCU_SOFTWARE_ANKAMA -Include $wakfuKey -Recurse)
+	if (!$WakfuRegObject) {
+		(CreateDistrib)
+	} else {
+		$version = (Get-Version)
+		Write-Output "Текущая версия русификатора: $version"
+	}
 }
 
 #GUI
@@ -162,12 +177,13 @@ $InstallButton.Add_Click({
 
 $FolderButton.Add_Click({
 	$defaultFolder = (Get-GameFolder)
+
 	if (!$defaultFolder) {
 		$defaultFolder = 'C:\Users'
 	}
 
 	($selectedFolder = Get-Folder $defaultFolder)
-
+	$FolderText.text = $selectedFolder
 	if ($selectedFolder) {
 		if (!(Check-ValidPath $selectedFolder)) {
 			if ($FolderText.text) {
@@ -179,7 +195,6 @@ $FolderButton.Add_Click({
 			Write-Warning $selectedFolder
 			(Update-RegKey 'GameFolder' $selectedFolder)
 			$FolderText.text = $selectedFolder
-			#$InstallButton.enabled = $true
 		}
 	}
 })
