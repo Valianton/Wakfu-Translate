@@ -31,6 +31,7 @@ suffers damage = получе
 non-reducible damage = Неизлечимый урон
 Heals received = Получаемое Исцеление
 Armor received = Получаемая Броня
+Armor given = Даруемая Броня
 Heals perfomed = Навык лечения у цели увеличен
 mastery elements = Мастерство владения стихиями (сейчас просто Мастерство Стихий)
 Increases gains = Увеличивает прирост
@@ -99,4 +100,5 @@ Dodge = Проворство
 content.9 = Описание заклинаний
 content.33 = Описание действий заклинаний
 
-content.16.22019=
+### I18N ###
+i18nPath=file:./mods/texts
