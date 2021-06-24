@@ -20,6 +20,8 @@ recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powd
 Мысли персонажа
 **Some text
 
+Dimensional Rifts = Пространственные Разломы
+Extraction altars = Алтарь Извлечения
 Uncewitches = снимает состояние
 Sufokia Galleries = Штольни Суфокии
 Sufokia Depths = Недра Суфокии

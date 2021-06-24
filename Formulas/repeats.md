@@ -226,3 +226,9 @@ The area's full of monsters. Interact with them the indicated number of times to
 
 A Roaring Trade
 Живая торговля
+
+This scroll can be applied to a specific combination of sockets to add a single effect to an item. This effect can stack up to level 2.
+Этот свиток можно применить к определенной комбинации гнезд, чтобы добавить к элементу единый эффект. Эффект суммируется до 2 уровня.
+
+This blueprint will teach you the recipe for several
+Этот чертеж научит вас рецепту изготовления нескольких
