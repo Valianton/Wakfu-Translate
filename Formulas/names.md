@@ -349,7 +349,7 @@ Agathie Christa = Агати Криста
 Morton Julius = Мортон Юлиус
 Master Bolete = Мастер Болет
 Verna the Unfazed = Верна Невозмутимая
-
+The Forgotten Herald = Забытый Вестник
 
 
 -----------------
