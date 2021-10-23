@@ -47,6 +47,7 @@ Round'ope = Круглокрытый
 penetrates Armor = пробивает Броню
 Finisher = Сокрушительный Удар
 chronomagic = хрономагия
+Meowettes = Мяомятки (женский род для Бу Мяу)
 
 RegEx
 ^content.*=[^а-яА-Яё]*?($)\n
