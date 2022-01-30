@@ -232,3 +232,11 @@ This scroll can be applied to a specific combination of sockets to add a single 
 
 This blueprint will teach you the recipe for several
 Этот чертеж научит вас рецепту изготовления нескольких
+
+Boss Smasher
+Крушитель Боссов
+
+Apprentice Is Master = Ученик - Это Мастер
+Six Times a Veteran = Ветеран Шести Разов
+Expert Strategy = Экспертная стратегия
+Supreme Jailer = Верховный Тюремщик

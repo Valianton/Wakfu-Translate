@@ -11,6 +11,9 @@ Zeppelantern = Зеппелантерн / Цеппелан
 -----------------
 -= Территории =-
 -----------------
+Tomb of the Forgotten = Гробница Забытых
+Ch'Tyx = Ч'Тикс - река протекает через часть Разлома Шустуфт, а затем достигает Акеранзу
+Akeranzu = Акеранзу - река, которая связывает материальную грань, адскую грань и Экстернам
 Snowbound Snowbound Village = Снежно-Заснеженная Деревня
 Wild Estate = Дикое Поместье
 Tienti Beach = Пляж Тиэнти
@@ -83,6 +86,12 @@ Arid Wing = Бесплодное Крыло
 Bearbarian Area = Область Медвеварваров
 Scramshell Cavern = Пещера Скрамшел
 Nap Passage = Проход Дремы
+Sthulhu Territory = Территория Стхулху
+Fallen Souls' Crossing = Перекрестку Падших Душ
+Kingdom of Despair = Королевство Отчаяния 
+Void Spiral = Спираль Бездны
+Citadel of Horror = Цитадель Ужаса
+Route of the Dead = Маршрут Мертвых
 
 ------------------------
 -= Семейства Монстров =-
@@ -114,6 +123,8 @@ Wodents = Гвызуны
 Mushds = Шламсы (отходы чел.деятельности при раскопках)
 Sunsloth = Санцелот
 Stompion = Топотун
+Horridemons = Жуткодемоны
+
 -----------------
 -= Остальное =-
 -----------------
@@ -140,6 +151,10 @@ Enchantment Workshop = Мастерская Волшебства
 -----------------
 -= Имена / NPC =-
 -----------------
+Synaeghel = Синаэгель
+Arlemia Tchatch = Арлемия Чатч
+Val Ture = Вал Тюр
+Badd'Luk = Бадд'Лук
 Nanny = Нэнни
 Master Bossowl = Мастер Главфилин
 Wikan Dewitt = Викан Девитт
@@ -350,7 +365,7 @@ Morton Julius = Мортон Юлиус
 Master Bolete = Мастер Болет
 Verna the Unfazed = Верна Невозмутимая
 The Forgotten Herald = Забытый Вестник
-
+Badd'Luk = Бадд'Лук
 
 -----------------
 -= Месяца =-

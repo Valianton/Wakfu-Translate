@@ -1,4 +1,5 @@
-quest.zinit.ch2.cine.caisse.01
+## Utils ##
+ * Отзеркаливание текста http://mrtranslate.ru/tools/revert.html
 
 Женский / Мужской род
 {[1*]?а:}
@@ -32,7 +33,7 @@ damage received by the ally = Урон, получаемый от союзник
 suffers damage = получе
 non-reducible damage = Неизлечимый урон
 Heals received = Получаемое Исцеление
-Armor received = Получаемая Броня
+Armor received = Получаемая Броня (к получаемой Брони)
 Armor given = Даруемая Броня
 Heals perfomed = Навык лечения у цели увеличен
 mastery elements = Мастерство владения стихиями (сейчас просто Мастерство Стихий)
@@ -93,15 +94,17 @@ Dodge = Проворство
 [ar978] - Microbots 
 [ar385] - Microbot Rail
 
-Диалоги NPC = content.75
-Диалоги игрока = content.76
-Драго-Экспрессы = content.82
-Описание заданий = content.63
-Пункты заданий = content.64
-Предметы в Мире, относящиеся к заданиям = content.106
-Описание предметов = content.16
-content.9 = Описание заклинаний
-content.33 = Описание действий заклинаний
+DATA = {
+    content.9: Описание заклинаний
+    content.16: Описание предметов
+    content.33: Описание действий заклинаний
+    content.63: Описание заданий
+    content.64: Пункты заданий
+    content.75: Диалоги NPC
+    content.76: Диалоги игрока
+    content.82: Драго-Экспрессы
+    content.106: Предметы в Мире, относящиеся к заданиям
+}
 
 ### I18N ###
 i18nPath=file:./mods/texts
