@@ -2,20 +2,20 @@
 fileVersion=1
 
 # font settings
-fontName=Verdana
+fontName=Coolvetica Condensed Rg
 fontFile=
 charSet=0
-fontSize=-13
-aa=2
-scaleH=100
+fontSize=18
+aa=1
+scaleH=90
 useSmoothing=1
 isBold=0
 isItalic=0
 useUnicode=1
 disableBoxChars=1
-outputInvalidCharGlyph=1
+outputInvalidCharGlyph=0
 dontIncludeKerningPairs=0
-useHinting=0
+useHinting=1
 renderFromOutline=1
 useClearType=1
 autoFitNumPages=0
@@ -51,12 +51,12 @@ invG=0
 invB=0
 
 # outline
-outlineThickness=0
+outlineThickness=1
 
 # selected chars
-chars=32-126,160-257,283,313,341,354,511,902,911,1025-1103,1105-1119,1144-1145,1148-1149,1159,1168-1171
-chars=1174-1175,1178-1181,1186-1187,1192-1193,1196-1205,1208-1215,1240-1241,1256-1257,1270-1271,1364-1365
-chars=1388,1392,3647,7856,7876,8211-8212,8216-8226,8230,8240,8242-8243,8249-8250,8322,8326,8328-8329,8354
-chars=64259,64275,64279,65533
+chars=32-126,160-180,182-257,271,283,313,339,341,354,768,902,911,1024-1119,1168-1171,1174-1179,1184-1187
+chars=1194-1195,1198-1199,1202-1203,1206-1207,1210-1211,1216,1219-1220,1223-1224,1231,1240-1241,1256-1257
+chars=1262-1263,7856,7876,8211-8212,8216-8218,8220-8222,8224-8226,8230,8240,8249-8250,8308,8322,8326,8328
+chars=8329,8719
 
 # imported icon images
