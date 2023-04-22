@@ -89,9 +89,17 @@
 * Void Spiral = Спираль Бездны
 * Citadel of Horror = Цитадель Ужаса
 * Route of the Dead = Маршрут Мертвых
+* Pirate Beach = Пиратский Пляж
+* Bitter-Hammer Cavern = Пещера Яростного Молота
+* Cursed Beach = Проклятый Пляж
+* New Sufokian Mine = Новая Суфокианская Шахта
+* Erborian Harbor = Эрборианская Гавань
+* Ocean Prison = Океаническая Тюрьма
+* Cyross = Сайросс
 
 Семейства Монстров
 =========
+* Macawker = Аракер
 * Hoodlums = Капюшоны
 * Blackspore = Черноспоры
 * Snowfoux = Снежнолис
@@ -359,6 +367,12 @@
 * Verna the Unfazed = Верна Невозмутимая
 * The Forgotten Herald = Забытый Вестник
 * Badd'Luk = Бадд'Лук
+* Spriggiss = Сприггис
+* Cyross = Сайросс
+* Cire Momore = Сире Моморе
+* Prince Adal = Принц Адал
+* Berylbell Copperbeard = Берилбелл Меднобородая (жен)
+* Frida Mofette = Фрида Мофетт
 
 Месяца
 ===

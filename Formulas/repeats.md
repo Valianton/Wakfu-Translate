@@ -233,6 +233,9 @@ This scroll can be applied to a specific combination of sockets to add a single 
 This blueprint will teach you the recipe for several
 Этот чертеж научит вас рецепту изготовления нескольких
 
+A Roaring Trade in
+Живая торговля:
+
 Boss Smasher
 Крушитель Боссов
 
