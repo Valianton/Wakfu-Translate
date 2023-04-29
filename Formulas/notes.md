@@ -41,9 +41,9 @@ recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powd
 * mastery elements = Мастерство владения стихиями (сейчас просто Мастерство Стихий)
 * Increases gains = Увеличивает прирост
 * is released = высвобождение
-* stackable = суммируется
+* stackable = можно получить несколько раз
 * smithmagic = кузнемагия
-* Indirect Damage = Побочный Урон
+* Indirect Damage = Непрямой урон
 * Hours Cell = Клетка Часов (Часовая Клетка)
 * Stasified = Стазификация
 * Round'ope = Круглокрытый

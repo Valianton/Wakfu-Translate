@@ -96,6 +96,9 @@
 * Erborian Harbor = Эрборианская Гавань
 * Ocean Prison = Океаническая Тюрьма
 * Cyross = Сайросс
+* Gloomy Passage = Мрачный проход
+* Sinister Alley = Зловещий переулок
+* Fake shower with body spray = Ложный душ с ароматическим спреем
 
 Семейства Монстров
 =========
