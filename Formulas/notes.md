@@ -52,6 +52,7 @@ recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powd
 * chronomagic = хрономагия
 * Meowettes = Мяомятки (женский род для Бу Мяу)
 * Dodge = Проворство
+* Kama Stones = Кама-Камни
 * 
 ### RegEx
 ^content.*=[^а-яА-Яё]*?($)\n

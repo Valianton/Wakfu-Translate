@@ -99,6 +99,7 @@
 * Gloomy Passage = Мрачный проход
 * Sinister Alley = Зловещий переулок
 * Fake shower with body spray = Ложный душ с ароматическим спреем
+* Celestial Island = Небесный Остров 
 
 Семейства Монстров
 =========
@@ -376,6 +377,8 @@
 * Prince Adal = Принц Адал
 * Berylbell Copperbeard = Берилбелл Меднобородая (жен)
 * Frida Mofette = Фрида Мофетт
+* Kheperalia = Хепералия (жен)
+* Hooly = Хооли (Хули слишком испорченно)
 
 Месяца
 ===
