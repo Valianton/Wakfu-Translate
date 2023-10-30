@@ -1,4 +1,4 @@
-Профессии:
+## Профессии
 Chef - Повар
 Baker - Пекарь
 Kama minter - Чеканщик
@@ -11,7 +11,7 @@ Handyman - Ремесленник
 Jeweler - Ювелир
 Armorer - Бронник
 
-Сбор:
+## Сбор
 Herbalist - Травник
 Lumberjack - Лесоруб
 Miner - Рудокоп

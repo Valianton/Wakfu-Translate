@@ -53,7 +53,8 @@ recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powd
 * Meowettes = Мяомятки (женский род для Бу Мяу)
 * Dodge = Проворство
 * Kama Stones = Кама-Камни
-* 
+* You must be at a dungeon's level = соответствовать уровню подземелья
+* level adjustment = настройка уровня
 ### RegEx
 ^content.*=[^а-яА-Яё]*?($)\n
 ^*?=[^а-яА-Яё]*?($)\n
