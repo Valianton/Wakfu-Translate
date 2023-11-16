@@ -1,30 +1,6 @@
-# Wakfu-Translate
-Проект пользовательского перевода игры [WAKFU](http://www.wakfu.com/en/mmorpg)
 
-VK страница-группа проекта: [Wakfu Русификатор](https://vk.com/club131505868)
+##Addition
 
-Программа-русификатор: [Wakfu Mod Installer](https://dreamswork.github.io/Wakfu-Mod-Installer/)
+from. steam SmertX(Proton) 13 ноя. 2021 в 20:37 короче, я линуксист, гайд по установке. Качаем гитхаб/Valianton/Wakfu-Translate/tree/master/data => data.zip. Открываем клиент, под кнопкой "play" есть шестеренка, тыкни на нее. Под "game options" будет "game folder" нажми, клинки на "open the game folder". Пошла магия 1)открой папку "contents" 2)открой архив "data.zip" 3)в папке "contents" найди папку "i18n", в ней "i18n_en.jar" <= открой это любым архивом. Замени в ней "texts_en.properties" на тот, что был в "data.zip" 4)Вернись в папку "contents", найди папку "gui_jar", открой архивом "gui.jar", перемести из "data.zip" папку "theme" 5)Поздравляю, братик/сестренка, у тебя игра на русском спиче :csgo_ez:
 
-## Оглавление
-1.  [Требования](#require)
-2.  [Установка Русификатора](#rusifikator)
-
-### <a name="require"></a>Требования
-bat-файлы используют команды powershell и для того, чтобы они правильно отработали, необходимо обновить powershell до последней версии (5.1)
-Чтобы проверить версию powershell, нужно нажать сочетание клавиш win + r и в появившимся окне ввести powershell. Это запустит командную строку powershell.
-
-После этого в появившемся окне нужно ввести 
-```javascript
-Get-Host | select version
-```
-или
-```javascript
-$PSVersionTable.PSVersion
-```
-[Обновление Powershell до 5 версии](https://www.microsoft.com/en-US/download/details.aspx?id=50395)
-
-### <a name="rusifikator"></a>Установка Русификатора
-
-* Скачать [архив](https://github.com/Valianton/Wakfu-Translate/raw/master/updater/updater.rar)
-* Распаковать его в каталоге игры (пример C:\Users\{YouUserName}\AppData\Local\Ankama\zaap\wakfu)
-* Запустить **run.bat**
+en: In short, I'm a Linux guy, installation guide. Download github/Valianton/Wakfu-Translate/tree/master/data = data.zip. Open the client, there is a gear under the “play” button, click on it. Under 'game options' there will be 'game folder' click on 'open the game folder'. The magic has gone 1)open the 'contents' folder 2) open the archive 'data.zip' 3) in the 'contents' folder, find the 'i18n' folder, in it 'i18n_en.jar' = open it with any archive. Replace 'texts_en.properties' in it with the one that was in 'data.zip' 4) Go back to the 'contents' folder, find the 'gui_jar' folder, open the 'gui.jar' archive, move the 'theme' folder from 'data.zip' 5) Congratulations, brother/sister, you have a game in Russian speech: csgo_ez:
