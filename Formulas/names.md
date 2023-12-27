@@ -100,6 +100,17 @@
 * Sinister Alley = Зловещий переулок
 * Fake shower with body spray = Ложный душ с ароматическим спреем
 * Celestial Island = Небесный Остров 
+* Ghoulish Tunnels = Омерзительные Туннели
+* Pyramid of Tal Kasha = Пирамида Таль Каша
+* Devastated Fields = Опустошенные поля
+* Wabbit Territory = Территория Кволиков
+* The Choochoo = Чучу
+* Kween's Gawden = Сад Коволевы
+* Lenald Palace = Замок Ленальдов
+* Lenald Village = Деревня Ленальдов
+* Lenald Territory = Территория Ленальдов
+* Great Zomkin's Compost = Компост Великого Зомкина
+* Womewo's Labowatowy = Лабоватория Вомево
 
 Семейства Монстров
 =========
@@ -379,9 +390,17 @@
 * Frida Mofette = Фрида Мофетт
 * Kheperalia = Хепералия (жен)
 * Hooly = Хооли (Хули слишком испорченно)
+* Sindrya = Синдрия
+* Bordegann = Бордеганн
+* Loyal Lenald = Кололевский Ленальд
+* Tom Eyto = Том Эйто
+* Wabbit Kween = Коволева Кволиков
+* Alia = Алия
+* Patwick = Патвик
 
 Месяца
 ===
+* Javian = Явиан
 * Junssidor = Юнссидор
 * Jullier = Юллиер
 * Maysial = Майсиаль
@@ -392,6 +411,5 @@
 * Octolliard = Октоллиард
 * Novamaire = Новамаир
 * Descendre = Десцендр
-* Javian = Явиан
 * Flovor = Фловор
 * Martalo = Мартало

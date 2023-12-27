@@ -1,0 +1,39 @@
+{
+  "fontSources": [
+    "https://www.fontspace.com/category/cyrillic"
+  ],
+  "fonts2023": {
+    "Roboto": true,
+    "Robotob": true,
+    "ibmplexsans": true,
+    "asul": {
+      "cyrillic": false,
+      "desc": "Кнопка Играть, заголовки окон, текст в дневнике области",
+      "replaceTo": "Resagokr"
+    },
+    "asulb": {
+      "cyrillic": false,
+      "desc": "Кнопка Играть, заголовки окон, текст в дневнике области",
+      "replaceTo": "Resagokr Bold"
+    },
+    "coprgtl": {
+      "cyrillic": false,
+      "desc": "",
+      "replaceTo": "Behrens AntiquaC"
+    },
+    "coprgtb": {
+      "cyrillic": false,
+      "desc": "",
+      "replaceTo": "Behrens AntiquaC"
+    },
+    "droidsansfallbackfull": {
+      "cyrillic": true,
+      "desc": ""
+    },
+    "fondamento": {
+      "cyrillic": false,
+      "desc": "На карте мире показывает название областей и миров",
+      "replaceTo": "Gabriela"
+    }
+  }
+}

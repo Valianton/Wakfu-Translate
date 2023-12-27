@@ -1,0 +1,20 @@
+{
+    "spellright.language": [
+        "en",
+        "ru"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "properties"
+    ],
+    "spellright.parserByClass": {
+        "properties": {
+            "parser": "plain"
+        }
+    },
+    "cSpell.enableFiletypes": [
+        "properties"
+    ]
+}

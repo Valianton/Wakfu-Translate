@@ -107,7 +107,7 @@ Solo:
 Самостоятельно:
 
 Race:
-Состязание:
+Гонка:
 
 Collaborative:
 Совместно:
@@ -224,9 +224,6 @@ The area's full of monsters. Eliminate the indicated number of them to collect t
 The area's full of monsters. Interact with them the indicated number of times to collect the reward.
 Область полна монстров. Взаимодействуйте с ними указанное количество раз, чтобы получить награду.
 
-A Roaring Trade
-Живая торговля
-
 This scroll can be applied to a specific combination of sockets to add a single effect to an item. This effect can stack up to level 2.
 Этот свиток можно применить к определенной комбинации гнезд, чтобы добавить к элементу единый эффект. Эффект суммируется до 2 уровня.
 
@@ -243,3 +240,6 @@ Apprentice Is Master = Ученик - Это Мастер
 Six Times a Veteran = Ветеран Шести Разов
 Expert Strategy = Экспертная стратегия
 Supreme Jailer = Верховный Тюремщик
+
+Scoreboard
+Таблица счета:

@@ -103,11 +103,12 @@ recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powd
 * content.33: Описание действий заклинаний
 * content.63: Описание заданий
 * content.64: Пункты заданий
-* content.75: Диалоги NPC
-* content.76: Диалоги игрока
+* content.75: Диалоги NPC с игроком
+* content.76: Диалоги игрока с NPC
 * content.82: Драго-Экспрессы
 * content.106: Предметы в Мире, относящиеся к заданиям
+* content.75: Диалог NPC с 
 
-
+* content.75.5801
 ### I18N
 i18nPath=file:./mods/texts
