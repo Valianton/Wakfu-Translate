@@ -68,7 +68,7 @@ Function Update-RegKey($name, $value)
 
 Function Checkpoint-ValidPath($path)
 {
-    $v = ".release.infos.json"
+    $v = "config.properties"
     return [System.IO.File]::Exists("$path\$v")
 }
 
