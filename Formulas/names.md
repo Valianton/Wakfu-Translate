@@ -111,6 +111,7 @@
 * Lenald Territory = Территория Ленальдов
 * Great Zomkin's Compost = Компост Великого Зомкина
 * Womewo's Labowatowy = Лабоватория Вомево
+* Jumpin' Jungle = Прыгучих Джунгли
 
 Семейства Монстров
 =========
@@ -397,6 +398,7 @@
 * Wabbit Kween = Коволева Кволиков
 * Alia = Алия
 * Patwick = Патвик
+* Hadibal Toot = Хадибал Тут 
 
 Месяца
 ===
