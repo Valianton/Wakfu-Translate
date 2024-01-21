@@ -398,7 +398,8 @@
 * Wabbit Kween = Коволева Кволиков
 * Alia = Алия
 * Patwick = Патвик
-* Hadibal Toot = Хадибал Тут 
+* Hadibal Toot = Хадибал Тут
+* Eddie Dan Hellan = Эдди Дэн Хеллан
 
 Месяца
 ===
