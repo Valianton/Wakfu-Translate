@@ -101,7 +101,7 @@
 * Fake shower with body spray = Ложный душ с ароматическим спреем
 * Celestial Island = Небесный Остров 
 * Ghoulish Tunnels = Омерзительные Туннели
-* Pyramid of Tal Kasha = Пирамида Таль Каша
+* Pyramid of Tal Kasha = Пирамида Тал Каша
 * Devastated Fields = Опустошенные поля
 * Wabbit Territory = Территория Кволиков
 * The Choochoo = Чучу
@@ -144,6 +144,7 @@
 * Sunsloth = Санцелот
 * Stompion = Топотун
 * Horridemons = Жуткодемоны
+* Sandyoptera = Песчанокрыл
 
 Остальное
 ===
@@ -400,7 +401,8 @@
 * Patwick = Патвик
 * Hadibal Toot = Хадибал Тут
 * Eddie Dan Hellan = Эдди Дэн Хеллан
-
+* Toross Mordal = Торосс Мордал
+* Tal Kasha = Тал Каша (ж)
 Месяца
 ===
 * Javian = Явиан
