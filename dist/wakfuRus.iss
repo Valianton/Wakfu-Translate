@@ -1,7 +1,7 @@
 [Setup]
 ; Настройки установщика
 AppName=Wakfu Русификатор
-AppVerName=Wakfu Русификатор 1.84.3
+AppVerName=Wakfu Русификатор 1.85.2
 DefaultDirName={commonpf}\Wakfu Русификатор
 DefaultGroupName=Wakfu Русификатор
 UninstallDisplayIcon={app}\Wakfu Русификатор.exe
