@@ -403,6 +403,11 @@
 * Eddie Dan Hellan = Эдди Дэн Хеллан
 * Toross Mordal = Торосс Мордал
 * Tal Kasha = Тал Каша (ж)
+* Helmatoot = Гельматут (Ж)
+* Bworkana = Бворкана
+* Brossar = Броссар
+* Chief Meccanox = Главный Мекканокс
+* Julpi = Джульпи (ж)
 Месяца
 ===
 * Javian = Явиан

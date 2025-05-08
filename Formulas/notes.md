@@ -55,6 +55,9 @@ recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powd
 * Kama Stones = Кама-Камни
 * You must be at a dungeon's level = соответствовать уровню подземелья
 * level adjustment = настройка уровня
+* Area Mastery = Мастерство области
+* Vestiges = Отголоски
+* United Grambo Workers (UGW) = Объединенние Работников Грамбо
 ### RegEx
 ^content.*=[^а-яА-Яё]*?($)\n
 ^*?=[^а-яА-Яё]*?($)\n
