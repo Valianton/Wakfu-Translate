@@ -34,10 +34,10 @@ recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powd
 * damage received by the ally = Урон, получаемый от союзников
 * suffers damage = получе
 * non-reducible damage = Неизлечимый урон
-* Heals received = Получаемое Исцеление
 * Armor received = Получаемая Броня (к получаемой Брони)
 * Armor given = Даруемая Броня
-* Heals perfomed = Навык лечения у цели увеличен
+* Heals perfomed = Сила исцеления
+* Heals received = Получаемое исцеление
 * mastery elements = Мастерство владения стихиями (сейчас просто Мастерство Стихий)
 * Increases gains = Увеличивает прирост
 * is released = высвобождение

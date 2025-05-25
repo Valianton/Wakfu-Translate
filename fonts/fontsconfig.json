@@ -3,12 +3,9 @@
     "https://www.fontspace.com/category/cyrillic"
   ],
   "fonts2023": {
-    "Roboto": true,
-    "Robotob": true,
-    "ibmplexsans": true,
     "asul": {
       "cyrillic": false,
-      "desc": "Кнопка Играть, заголовки окон, текст в дневнике области",
+      "desc": "Заголовки окон, текст в дневнике области",
       "replaceTo": "Resagokr"
     },
     "asulb": {
@@ -34,6 +31,11 @@
       "cyrillic": false,
       "desc": "На карте мире показывает название областей и миров",
       "replaceTo": "Gabriela"
+    },
+    "bagnard": {
+      "cyrillic": false,
+      "desc": "Кнопка Играть. Основной шрифт для интерфейс в начале экрана игры",
+      "replaceTo": "Resagokr"
     }
   }
 }

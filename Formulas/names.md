@@ -112,6 +112,11 @@
 * Great Zomkin's Compost = Компост Великого Зомкина
 * Womewo's Labowatowy = Лабоватория Вомево
 * Jumpin' Jungle = Прыгучих Джунгли
+* Primal Forest = Первобытный лес
+* Cosmo Canyon = Каньон Космо
+* Savannah = Саванны
+* Bwork Swamps = Болота Бворков
+* Grambos' Desolation = Опустошение Грамбо
 
 Семейства Монстров
 =========
