@@ -428,3 +428,5 @@
 * Descendre = Десцендр
 * Flovor = Фловор
 * Martalo = Мартало
+* Karn = Карн (Иоп-гурман)
+* Pascal Liko = Паскаль Лико

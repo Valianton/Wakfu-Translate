@@ -36,8 +36,8 @@ recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powd
 * non-reducible damage = Неизлечимый урон
 * Armor received = Получаемая Броня (к получаемой Брони)
 * Armor given = Даруемая Броня
-* Heals perfomed = Сила исцеления
-* Heals received = Получаемое исцеление
+* Heals perfomed = применяемое лечение
+* Heals received = получаемое лечение
 * mastery elements = Мастерство владения стихиями (сейчас просто Мастерство Стихий)
 * Increases gains = Увеличивает прирост
 * is released = высвобождение
@@ -58,6 +58,7 @@ recycle.resultMessage=You have destroyed [#2] item{[=2]?:s} and gained [#1] powd
 * Area Mastery = Мастерство области
 * Vestiges = Отголоски
 * United Grambo Workers (UGW) = Объединенние Работников Грамбо
+* Урона от атак похищается в виде
 ### RegEx
 ^content.*=[^а-яА-Яё]*?($)\n
 ^*?=[^а-яА-Яё]*?($)\n
