@@ -71,7 +71,7 @@
 * Wagnar's Castle = Замок Вагнара
 * Schnek Cave = Пещера Шнека
 * Temple of Scriptures = Храм Священного Писания
-* Shustuft Crust = Разлом Шустуфт
+* Shustuft Crust = Расщелина Шустафт
 * Ancestral Passageway = Проход Предков
 * Huppermage School = Школа Хуппермагии
 * Pandissident Village = Поселение Пандиссидентов
