@@ -1,7 +1,7 @@
 [Setup]
 ; Настройки установщика
 AppName=Wakfu Русификатор
-AppVerName=Wakfu Русификатор 1.89.1
+AppVerName=Wakfu Русификатор 1.90.7
 DefaultDirName={commonpf}\Wakfu Русификатор
 DefaultGroupName=Wakfu Русификатор
 UninstallDisplayIcon={app}\Wakfu Русификатор.exe
@@ -10,7 +10,7 @@ AppendDefaultDirName=no
 AppPublisher=Wakfu Русификатор
 AppPublisherURL=https://vk.com/wakfu_translate
 OutputBaseFilename=wakfu_rus
-VersionInfoVersion=1.89.1
+VersionInfoVersion=1.90.7
 
 [Files]
 ; Копирование файлов
